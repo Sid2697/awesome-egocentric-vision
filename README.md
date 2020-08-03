@@ -90,7 +90,6 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 | UEC Dataset | http://www.cs.cmu.edu/~kkitani/datasets/ | two choreographed datasets with different egoactions (walk, jump, climb, etc.) + 6 youtube sports videos | activities | Unsupervised activity recognition |
 | JPL | http://michaelryoo.com/jpl-interaction.html | interaction with a robot | activities performed on the robot + pose | Interaction recognition/prediction |
 | Multimodal Egocentric Activity Dataset | https://www.verlab.dcc.ufmg.br/semantic-hyperlapse/cvpr2018-dataset/ | 15 seconds clips of 20 activities | activity (walking, elevator, etc.) | Life-logging |
-<!-- | LENA: An egocentric video database of visual lifelog | http://people.sutd.edu.sg/~1000892/dataset | 13 activities performed by 10 subjects(Google Glass) | activity (walking, elevator, etc.) | Life-logging | -->
 | FPPA | http://tamaraberg.com/prediction/Prediction.html | Five subjects performing 5 daily actions | activity (drinking water, putting on clothes, etc.) | Temporal prediction |
 | UT Egocentric | http://vision.cs.utexas.edu/projects/egocentric/index.html | 3-5 hours long videos capturing a person's day | important regions | Summarization |
 | VINST/ Visual Diaries | http://www.csc.kth.se/cvap/vinst/NovEgoMotion.html | 31 videos capturing the visual experience of a subject walkin from metro station to work | location id, novel egomotion | Novelty detection |
@@ -107,10 +106,11 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 | EgoGesture | http://www.nlpr.ia.ac.cn/iva/yfzhang/datasets/egogesture.html | 2k videos from 50 subjects performing 83 gestures | Gesture labels, depth | Gesture recognition | 
 | EgoHands | http://vision.soic.indiana.edu/projects/egohands/ | 48 videos of interactions between two people | Hand segmentation masks |Egocentric hand segmentation |
 | DoMSEV | http://www.verlab.dcc.ufmg.br/semantic-hyperlapse/cvpr2018-dataset/ | 80 hours/different activities | Scene/Action labels with IMU, GPS mad depth | Summarization | 
-<!-- | EGO-HPE | http://imagelab.ing.unimore.it/imagelab2015/researchactivity.asp?idAttivita=23 | Egocentric videos for head pose estimation | Head pose of the subjects | Head-pose estimation | 
-| EGO-GROUP | http://imagelab.ing.unimore.it/imagelab2015/researchactivity.asp?idAttivita=23 | 18 videos of people engaging social relationships | Social relationships | Understanding social relationships |  -->
 | DR(eye)VE | http://aimagelab.ing.unimore.it/dreyeve | 74 videos of people driving | Eye fixations | Autonomous and assisted driving |
 | THU-READ | http://ivg.au.tsinghua.edu.cn/dataset/THU_READ.php | 8 subjects performing 40 actions with a head- mounted RGBD camera | Action segments | RGBD egocentric action recognition |
+<!-- | EGO-HPE | http://imagelab.ing.unimore.it/imagelab2015/researchactivity.asp?idAttivita=23 | Egocentric videos for head pose estimation | Head pose of the subjects | Head-pose estimation | 
+| EGO-GROUP | http://imagelab.ing.unimore.it/imagelab2015/researchactivity.asp?idAttivita=23 | 18 videos of people engaging social relationships | Social relationships | Understanding social relationships |  -->
+<!-- | LENA: An egocentric video database of visual lifelog | http://people.sutd.edu.sg/~1000892/dataset | 13 activities performed by 10 subjects(Google Glass) | activity (walking, elevator, etc.) | Life-logging | -->
 
 ## Blogs
 
