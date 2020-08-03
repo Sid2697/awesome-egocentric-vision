@@ -31,6 +31,8 @@ A curated list of egocentric vision resources, inspired by [awesome-computer-vis
 
 * [Multi-face tracking by extended bag-of-tracklets in egocentric photo-streams](https://www.sciencedirect.com/science/article/abs/pii/S1077314216000679) - Aghaei, M., Dimiccoli, M., & Radeva, P., Computer Vision and Image Understanding 2016
 
+* [Mining discriminative states of hands and objects to recognize egocentric actions with a wearable RGBD camera](http://cvrc.ece.utexas.edu/Publications/ShaohuaWanCVPRW2015_1_.pdf) - Wan, S., & Aggarwal, J. K., CVPRW 2015
+
 * [Delving into egocentric actions](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_Delving_Into_Egocentric_2015_CVPR_paper.pdf) - Li, Y., Ye, Z., & Rehg, J. M., CVPR 2015
 
 * [Lending a hand: Detecting hands and recognizing activities in complex egocentric interactions](http://homes.sice.indiana.edu/sbambach/papers/iccv-egohands.pdf) - Bambach, S., Lee, S., Crandall, D. J., & Yu, C., ICCV 2015
@@ -75,6 +77,40 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 * [Wearable computing: a first step toward personal imaging](https://ieeexplore.ieee.org/document/566147) - Steve Mann, Computer, vol. 30 1997.
 
 ## Datasets
+
+| Dataset | URL | Settings | Annotations | Tasks |
+| ------- | :--:| :------: | :---------: | ----: |
+| EPIC-Kitchens 2018 | https://epic-kitchens.github.io/2018 | 32 subjects performing unscripted actions in their native environments | action segments, object annotations | Action recognition, Action Anticipation, Object Detection |
+| Charade-Ego | https://allenai.org/plato/charades/ | paired first-third person videos | action classes | Action recognition |
+| EGTEA Gaze+ | http://ai.stanford.edu/~alireza/GTEA/ | 32 subjects, 86 sessions, 28 hours | action segments, gaze, hand masks | Understading daily activities, action recognition | 
+| ADL | https://www.csee.umbc.edu/~hpirsiav/papers/ADLdataset/ | 20 subjects performing daily activities in their native environments | activity segments, objects | Detecting activities of daily living | 
+| CMU kitchen | http://www.cs.cmu.edu/~espriggs/cmu-mmac/annotations/ | multimodal, 18 subjects cooking 5 different recipes: brownies, eggs, pizza, salad, sandwich | action segments | Understading daily activities |
+| EgoSeg | http://www.vision.huji.ac.il/egoseg/ | Long term actions (walking, running, driving, etc.) | long term activity | Temporal Segmentation, Indexing | 
+| First-Person Social Interactions | http://ai.stanford.edu/~alireza/Disney/ | 8 subjects at disneyworld | Activities: walking, waiting, gathering, sitting, buying something, eating, etc. | Recognizing social interactions |
+| UEC Dataset | http://www.cs.cmu.edu/~kkitani/datasets/ | two choreographed datasets with different egoactions (walk, jump, climb, etc.) + 6 youtube sports videos | activities | Unsupervised activity recognition |
+| JPL | http://michaelryoo.com/jpl-interaction.html | interaction with a robot | activities performed on the robot + pose | Interaction recognition/prediction |
+| Multimodal Egocentric Activity Dataset | http://people.sutd.edu.sg/~1000892/dataset/ | 15 seconds clips of 20 activities | activity (walking, elevator, etc.) | Life-logging |
+| LENA: An egocentric video database of visual lifelog | http://people.sutd.edu.sg/~1000892/dataset | 13 activities performed by 10 subjects(Google Glass) | activity (walking, elevator, etc.) | Life-logging |
+| FPPA | http://tamaraberg.com/prediction/Prediction.html | Five subjects performing 5 daily actions | activity (drinking water, putting on clothes, etc.) | Temporal prediction |
+| UT Egocentric | http://vision.cs.utexas.edu/projects/egocentric/index.html | 3-5 hours long videos capturing a person's day | important regions | Summarization |
+| VINST/ Visual Diaries | http://www.csc.kth.se/cvap/vinst/NovEgo Motion.html | 31 videos capturing the visual experience of a subject walkin from metro station to work | location id, novel egomotion | Novelty detection |
+| Bristol Egocentric Object Interaction (BEOID) | https://www.cs.bris.ac.uk/~damen/BEOID/ | 8 subjects, six locations. Interaction with objects and environment |  gaze, objects, mode of interaction (pick, plug, etc.) | Provide assistance on object usage |
+| Object Search Dataset | https://github.com/Mengmi/deepfuturegaze_gan | 57 sequences of 55 subjects on search and retrieval tasks | gaze | gaze prediction |
+| UNICT-VEDI | http://iplab.dmi.unict.it/VEDI/ | different subjects visiting a museum | location, observed objects | localizing visitors of a museum and estimating their attention | 
+| UNICT-VEDI-POI | http://iplab.dmi.unict.it/VEDI_POIs/ | different subjects visiting a museum | object bounding boxes annotations, observed objects | recognizing points of interest observed by the visitors | 
+| Simulated Egocentric Navigations | http://iplab.dmi.unict.it/SimulatedEgoc entricNavigations/ | simulated navigations of a virtual agent within a large building | 3-DOF pose of the agent in each image | egocentric localization | 
+| EgoCart | http://iplab.dmi.unict.it/EgocentricSho ppingCartLocalization/ | egocentric images collected by a shopping cart in a retail store | 3-DOF pose of the shopping cart in each image | egocentric localization | 
+| Unsupervised Segmentation of Daily Livign Activities | http://iplab.dmi.unict.it/dailylivingactivities | egocentric videos of daily activities | activities | unsupervised segmentation with respect to the activities | 
+| Visual Market Basket Analysis | http://iplab.dmi.unict.it/vmba/ | egocentric images colelcted by a shopping cart in a retail store | class-location of each image | egocentric localization | 
+| Location Based Segmentation of Egocentric Videos | http://iplab.dmi.unict.it/PersonalLocationSegmentation/ | egocentric videos of daily activities | location classes | egocentric localization, video indexing | 
+| Recognition of Personal Locations from Egocentric Videos | http://iplab.dmi.unict.it/PersonalLocations/ | egocentric videos clips of daily | activities | location classes | recognizing personal locations | 
+| EgoGesture | http://www.nlpr.ia.ac.cn/iva/yfzhang/datasets/egogesture.html | 2k videos from 50 subjects performing 83 gestures | Gesture labels, depth | Gesture recognition | 
+| EgoHands | http://vision.soic.indiana.edu/projects/egohands/ | 48 videos of interactions between two people | Hand segmentation masks |Egocentric hand segmentation |
+| DoMSEV | http://www.verlab.dcc.ufmg.br/semantic-hyperlapse/cvpr2018-dataset/ | 80 hours/different activities | Scene/Action labels with IMU, GPS mad depth | Summarization | 
+| EGO-HPE | http://imagelab.ing.unimore.it/imagelab2015/researchactivity.asp?idAttivita=23 | Egocentric videos for head pose estimation | Head pose of the subjects | Head-pose estimation | 
+| EGO-GROUP | http://imagelab.ing.unimore.it/imagelab2015/researchactivity.asp?idAttivita=23 | 18 videos of people engaging social relationships | Social relationships | Understanding social relationships | 
+| DR(eye)VE | http://aimagelab.ing.unimore.it/dreyeve | 74 videos of people driving | Eye fixations | Autonomous and assisted driving |
+| THU-READ | http://ivg.au.tsinghua.edu.cn/dataset/THU_READ.php | 8 subjects performing 40 actions with a head- mounted RGBD camera | Action segments | RGBD egocentric action recognition |
 
 ## Blogs
 
