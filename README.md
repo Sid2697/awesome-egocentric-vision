@@ -1,19 +1,27 @@
 # Awesome Egocentric Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of egocentric vision resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition).
+A curated list of egocentric vision resources.
+We are constantly updating this list with latest information.
+Feel free to contribute in case you find a good resourse.
 
 ## Contents
 - [Papers](#papers)
-- [Datasets]
-- [Blogs]
-- [TODOs]
+- [Datasets](#Datasets)
+- [Blogs](#Blogs)
+- [TODOs](#TODOs)
 
 ## Papers
+
+* [What Would You Expect? Anticipating Egocentric Actions with Rolling-Unrolling LSTMs and Modality Attention](https://arxiv.org/pdf/1905.09035) - Antonino Furnari, Giovanni Maria Farinella, ICCV 2019 [[code]](https://github.com/fpv-iplab/rulstm) [[demo]](https://youtu.be/buIEKFHTVIg)
 
 * [Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition](https://arxiv.org/pdf/1803.09125) - Huang, Y., Cai, M., Li, Z., & Sato, Y., ECCV 2018 [[code]](https://github.com/hyf015/egocentric-gaze-prediction)
 
 * [In the eye of beholder: Joint learning of gaze and actions in first person video](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf) - Li, Y., Liu, M., & Rehg, J. M., ECCV 2018
 
 * [Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation](http://users.ece.utexas.edu/~ethomaz/papers/j2.pdf) - Dimiccoli, M., Marín, J., & Thomaz, E., Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2018
+
+* [Egocentric Shopping Cart Localization](https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/home/_paper/egocentric%20shopping%20cart%20localization.pdf) - E. Spera, A. Furnari, S. Battiato, G. M. Farinella, ICPR 2018
+
+* [Analysis of Hand Segmentation in the Wild](https://arxiv.org/pdf/1803.03317) - Aisha Urooj, Ali Borj, CVPR 2018
 
 * [Summarization and Classification of Wearable Camera Streams by Learning the Distributions over Deep Features of Out-of-Sample Image Sequences](https://ieeexplore.ieee.org/document/8237726) - Perina, A., Mohammadi, S., Jojic, N., & Murino, V., ICCV 2017
 
@@ -29,7 +37,13 @@ A curated list of egocentric vision resources, inspired by [awesome-computer-vis
 
 * [Privacy-Preserving Human Activity Recognition from Extreme Low Resolution](https://arxiv.org/pdf/1604.03196) - Ryoo, M. S., Rothrock, B., Fleming, C., & Yang, H. J., AAAI 2017
 
+* [Personal-Location-Based Temporal Segmentation of Egocentric Video for Lifelogging Applications](https://iplab.dmi.unict.it/PersonalLocationSegmentation/downloads/furnari2018personal.pdf) - A. Furnari, G. M. Farinella, S. Battiato, Journal of Visual Communication and Image Representation 2017 [[demo]](https://youtu.be/URM0EdYuKEw) [[project web]](https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/)
+
 * [Multi-face tracking by extended bag-of-tracklets in egocentric photo-streams](https://www.sciencedirect.com/science/article/abs/pii/S1077314216000679) - Aghaei, M., Dimiccoli, M., & Radeva, P., Computer Vision and Image Understanding 2016
+
+* [Detecting engagement in egocentric video](http://www.cs.utexas.edu/~grauman/papers/su-eccv2016-ego.pdf) - Su, Y.C., & Grauman, K., ECCV 2016
+
+* [Going deeper into first-person activity recognition](http://www.cs.cmu.edu/~kkitani/pdf/MFK-CVPR2016.pdf) - Ma, M., Fan, H., & Kitani, K. M., CVPR 2016
 
 * [Mining discriminative states of hands and objects to recognize egocentric actions with a wearable RGBD camera](http://cvrc.ece.utexas.edu/Publications/ShaohuaWanCVPRW2015_1_.pdf) - Wan, S., & Aggarwal, J. K., CVPRW 2015
 
@@ -56,7 +70,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 
 * [First-person vision](https://ieeexplore.ieee.org/document/6232429) - Takeo Kanade and Martial Herbert, Proceedings of the IEEE 100.8 2012
 
-* [Detecting activities of daily living in first- person camera views](https://www.cs.cmu.edu/~deva/papers/ADL_2012.pdf) - Pirsiavash, H., & Ramanan, D., CVPR 2012
+* [Detecting activities of daily living in first-person camera views](https://www.cs.cmu.edu/~deva/papers/ADL_2012.pdf) - Pirsiavash, H., & Ramanan, D., CVPR 2012
 
 * [Learning to recognize objects in egocentric activities](https://homes.cs.washington.edu/~xren/publication/fathi_cvpr11_egocentric_objects.pdf) - Fathi, A., Ren, X., & Rehg, J. M., CVPR 2011
 
@@ -80,6 +94,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 
 | Dataset | URL | Settings | Annotations | Tasks |
 | ------- | :--:| :------: | :---------: | ----: |
+| EPIC-Kitchens 2020 | https://epic-kitchens.github.io/2020-100 | **X** subjects performing unscripted actions in their native environments | action segments, object annotations | Action recognition, Action Anticipation, Object Detection |
 | EPIC-Kitchens 2018 | https://epic-kitchens.github.io/2018 | 32 subjects performing unscripted actions in their native environments | action segments, object annotations | Action recognition, Action Anticipation, Object Detection |
 | Charade-Ego | https://allenai.org/plato/charades/ | paired first-third person videos | action classes | Action recognition |
 | EGTEA Gaze+ | http://ai.stanford.edu/~alireza/GTEA/ | 32 subjects, 86 sessions, 28 hours | action segments, gaze, hand masks | Understading daily activities, action recognition | 
