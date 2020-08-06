@@ -13,6 +13,8 @@
 
 ### Action/Activity Recognition
 
+- [LSTA: Long Short-Term Attention for Egocentric Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sudhakaran_LSTA_Long_Short-Term_Attention_for_Egocentric_Action_Recognition_CVPR_2019_paper.pdf) - Sudhakaran, Swathikiran and Escalera, Sergio and Lanz, Oswald, CVPR 2019. [[code]](https://github.com/swathikirans/LSTA)
+
 - [In the eye of beholder: Joint learning of gaze and actions in first person video](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf) - Li, Y., Liu, M., & Rehg, J. M., ECCV 2018.
 
 - [Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation](http://users.ece.utexas.edu/~ethomaz/papers/j2.pdf) - Dimiccoli, M., Marín, J., & Thomaz, E., Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2018.
@@ -83,7 +85,16 @@
 - [Discovering Important People and Objects for Egocentric Video Summarization](http://vision.cs.utexas.edu/projects/egocentric/egocentric_cvpr2012.pdf) - Yong Jae Lee, Joydeep Ghosh, and Kristen Grauman, CVPR 2012.
 
 
+### Social Interactions
+
+- [Deep Dual Relation Modeling for Egocentric Interaction Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf) - Li, Haoxin and Cai, Yijun and Zheng, Wei-Shi, CVPR 2019.
+
+- [Social interactions: A first-person perspective](http://www.cs.utexas.edu/~cv-fall2012/slides/jake-expt.pdf) - Fathi, A., Hodgins, J. K., & Rehg, J. M., CVPR 2012.
+
+
 ### Miscellaneous
+
+- [H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tekin_HO_Unified_Egocentric_Recognition_of_3D_Hand-Object_Poses_and_Interactions_CVPR_2019_paper.pdf) - Tekin, Bugra and Bogo, Federica and Pollefeys, Marc, CVPR 2019. [[video]](https://www.youtube.com/watch?v=ko6kNZ9DuAk&t=3240)
 
 - [Toward storytelling from visual lifelogging: An overview](https://arxiv.org/pdf/1507.06120.pdf) - Bolanos, M., Dimiccoli, M., & Radeva, P., IEEE Transactions on Human-Machine Systems 2017.
 
@@ -97,8 +108,6 @@
 of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You-Do-I-Learn/Damen_BMVC2014.pdf) - Damen, D., Leelasawassuk, T., Haines, O., Calway, A., & Mayol-Cuevas, W. W., BMVC 2014 [[project web]](http://www.bmva.org/bmvc/2014/papers/paper059/index.html)
 
 - [Temporal segmentation of egocentric videos](https://www.cse.iitd.ac.in/~chetan/papers/egocentric-cvpr14.pdf) - Poleg, Y., Arora, C., & Peleg, S., CVPR 2014.
-
-- [Social interactions: A first-person perspective](http://www.cs.utexas.edu/~cv-fall2012/slides/jake-expt.pdf) - Fathi, A., Hodgins, J. K., & Rehg, J. M., CVPR 2012.
 
 
 ## Datasets
@@ -131,6 +140,8 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 - [DoMSEV](http://www.verlab.dcc.ufmg.br/semantic-hyperlapse/cvpr2018-dataset/) - 80 hours/different activities.
 - [DR(eye)VE](http://aimagelab.ing.unimore.it/dreyeve) - 74 videos of people driving.
 - [THU-READ](http://ivg.au.tsinghua.edu.cn/dataset/THU_READ.php) - 8 subjects performing 40 actions with a head-mounted RGBD camera.
+- [EgoDexter](https://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) - 4 sequences with 4 actors (2 female), and varying interactions with various objects and and cluttered background. [[paper]](https://handtracker.mpi-inf.mpg.de/projects/OccludedHands/index.htm)
+- [First-Person Hand Action (FPHA)](https://guiggh.github.io/publications/first-person-hands/) - 3D hand-object interaction. Includes 1175 videos belonging to 45 different activity categories performed by 6 actors. [[paper]](https://arxiv.org/pdf/1704.02463.pdf)
 
 ## Blogs
 TODO
