@@ -13,6 +13,8 @@
 
 ### Action/Activity Recognition
 
+- [EPIC-Fusion: Audio-Visual Temporal Binding for Egocentric Action Recognition](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kazakos_EPIC-Fusion_Audio-Visual_Temporal_Binding_for_Egocentric_Action_Recognition_ICCV_2019_paper.pdf) - Kazakos, Evangelos and Nagrani, Arsha and Zisserman, Andrew and Damen, Dima, ICCV 2019. [[code]](https://github.com/ekazakos/temporal-binding-network) [[project page]](https://ekazakos.github.io/TBN/)
+
 - [LSTA: Long Short-Term Attention for Egocentric Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sudhakaran_LSTA_Long_Short-Term_Attention_for_Egocentric_Action_Recognition_CVPR_2019_paper.pdf) - Sudhakaran, Swathikiran and Escalera, Sergio and Lanz, Oswald, CVPR 2019. [[code]](https://github.com/swathikirans/LSTA)
 
 - [In the eye of beholder: Joint learning of gaze and actions in first person video](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf) - Li, Y., Liu, M., & Rehg, J. M., ECCV 2018.
@@ -31,7 +33,7 @@
 
 - [Learning to recognize objects in egocentric activities](https://homes.cs.washington.edu/~xren/publication/fathi_cvpr11_egocentric_objects.pdf) - Fathi, A., Ren, X., & Rehg, J. M., CVPR 2011.
 
-- [Fast unsupervised ego-action learning for first-person sports videos](http://www.dgcv.nii.ac.jp/Publications/Papers/2011/CVPR2011a.pdf) - Kitani, K. M., Okabe, T., Sato, Y., & Sugimoto, A., CVPR 2011 [[project web]](https://www.ri.cmu.edu/publications/fast-unsupervised-ego-action-learning-for-first-person-sports-videos/)
+- [Fast unsupervised ego-action learning for first-person sports videos](http://www.dgcv.nii.ac.jp/Publications/Papers/2011/CVPR2011a.pdf) - Kitani, K. M., Okabe, T., Sato, Y., & Sugimoto, A., CVPR 2011 [[project page]](https://www.ri.cmu.edu/publications/fast-unsupervised-ego-action-learning-for-first-person-sports-videos/)
 
 - [Temporal segmentation and activity classification from first-person sensing](https://ieeexplore.ieee.org/document/5204354) - Spriggs, Ekaterina H., Fernando De La Torre, and Martial Hebert, Computer Vision and Pattern Recognition Workshops, CVPR Workshops 2009.
 
@@ -40,14 +42,20 @@
 
 ### Object/Hand Recognition
 
+- [Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_Generalizing_Hand_Segmentation_in_Egocentric_Videos_With_Uncertainty-Guided_Model_Adaptation_CVPR_2020_paper.pdf) - Minjie Cai and Feng Lu and Yoichi Sato, CVPR 2020. [[code]](https://github.com/cai-mj/UMA)
+
 - [Analysis of Hand Segmentation in the Wild](https://arxiv.org/pdf/1803.03317) - Aisha Urooj, Ali Borj, CVPR 2018.
 
 - [Lending a hand: Detecting hands and recognizing activities in complex egocentric interactions](http://homes.sice.indiana.edu/sbambach/papers/iccv-egohands.pdf) - Bambach, S., Lee, S., Crandall, D. J., & Yu, C., ICCV 2015.
 
-- [Context-based vision system for place and object recognition](https://www.cs.ubc.ca/~murphyk/Papers/iccv03.pdf) - Torralba, A., Murphy, K. P., Freeman, W. T., & Rubin, M. A., ICCV 2003. [[project web]](https://www.cs.ubc.ca/~murphyk/Vision/placeRecognition.html)
+- [Context-based vision system for place and object recognition](https://www.cs.ubc.ca/~murphyk/Papers/iccv03.pdf) - Torralba, A., Murphy, K. P., Freeman, W. T., & Rubin, M. A., ICCV 2003. [[project page]](https://www.cs.ubc.ca/~murphyk/Vision/placeRecognition.html)
 
 
 ### Action/Gaze Anticipation
+
+- [Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior](https://openaccess.thecvf.com/content_CVPR_2020/papers/Makansi_Multimodal_Future_Localization_and_Emergence_Prediction_for_Objects_in_Egocentric_CVPR_2020_paper.pdf) - Makansi, Osama and Cicek, Ozgun and Buchicchio, Kevin and Brox, Thomas, CVPR 2020. [[demo]](https://www.youtube.com/watch?v=_9Ml5IFwbSY) [[code]](https://github.com/lmb-freiburg/FLN-EPN-RPN) [[project page]](https://lmb.informatik.uni-freiburg.de/Publications/2020/MCBB20/)
+
+- [EGO-TOPO: Environment Affordances from Egocentric Video](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nagarajan_Ego-Topo_Environment_Affordances_From_Egocentric_Video_CVPR_2020_paper.pdf) - Nagarajan, Tushar and Li, Yanghao and Feichtenhofer, Christoph and Grauman, Kristen, CVPR 2020. [[project page]](http://vision.cs.utexas.edu/projects/ego-topo/) [[demo]](http://vision.cs.utexas.edu/projects/ego-topo/demo.html)
 
 - [What Would You Expect? Anticipating Egocentric Actions with Rolling-Unrolling LSTMs and Modality Attention](https://arxiv.org/pdf/1905.09035) - Antonino Furnari, Giovanni Maria Farinella, ICCV 2019 [[code]](https://github.com/fpv-iplab/rulstm) [[demo]](https://youtu.be/buIEKFHTVIg)
 
@@ -62,11 +70,13 @@
 
 ### Localization
 
+- [Hand-Priming in Object Localization for Assistive Egocentric Vision](https://openaccess.thecvf.com/content_WACV_2020/papers/Lee_Hand-Priming_in_Object_Localization_for_Assistive_Egocentric_Vision_WACV_2020_paper.pdf) - Lee, Kyungjun and Shrivastava, Abhinav and Kacorri, Hernisa, WACV 2020. 
+
 - [Egocentric Shopping Cart Localization](https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/home/_paper/egocentric%20shopping%20cart%20localization.pdf) - E. Spera, A. Furnari, S. Battiato, G. M. Farinella, ICPR 2018.
 
 - [Recognizing personal locations from egocentric videos](https://ieeexplore.ieee.org/document/7588113) - Furnari, A., Farinella, G. M., & Battiato, S., IEEE Transactions on Human-Machine Systems 2017.
 
-- [Personal-Location-Based Temporal Segmentation of Egocentric Video for Lifelogging Applications](https://iplab.dmi.unict.it/PersonalLocationSegmentation/downloads/furnari2018personal.pdf) - A. Furnari, G. M. Farinella, S. Battiato, Journal of Visual Communication and Image Representation 2017 [[demo]](https://youtu.be/URM0EdYuKEw) [[project web]](https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/)
+- [Personal-Location-Based Temporal Segmentation of Egocentric Video for Lifelogging Applications](https://iplab.dmi.unict.it/PersonalLocationSegmentation/downloads/furnari2018personal.pdf) - A. Furnari, G. M. Farinella, S. Battiato, Journal of Visual Communication and Image Representation 2017 [[demo]](https://youtu.be/URM0EdYuKEw) [[project page]](https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/)
 
 - [Real-time localization and mapping with wearable active vision](https://ieeexplore.ieee.org/document/1240684) - Davison, A. J., Mayol, W. W., & Murray, D. W., The Second IEEE and ACM International Symposium 2003.
 
@@ -80,7 +90,7 @@
 
 ### Video summarization
 
-- [Story-Driven Summarization for Egocentric Video](https://www.cs.utexas.edu/~grauman/papers/lu-grauman-cvpr2013.pdf) - Zheng Lu and Kristen Grauman, CVPR 2013 [[project web]](http://vision.cs.utexas.edu/projects/egocentric/storydriven.html)
+- [Story-Driven Summarization for Egocentric Video](https://www.cs.utexas.edu/~grauman/papers/lu-grauman-cvpr2013.pdf) - Zheng Lu and Kristen Grauman, CVPR 2013 [[project page]](http://vision.cs.utexas.edu/projects/egocentric/storydriven.html)
 
 - [Discovering Important People and Objects for Egocentric Video Summarization](http://vision.cs.utexas.edu/projects/egocentric/egocentric_cvpr2012.pdf) - Yong Jae Lee, Joydeep Ghosh, and Kristen Grauman, CVPR 2012.
 
@@ -90,6 +100,15 @@
 - [Deep Dual Relation Modeling for Egocentric Interaction Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf) - Li, Haoxin and Cai, Yijun and Zheng, Wei-Shi, CVPR 2019.
 
 - [Social interactions: A first-person perspective](http://www.cs.utexas.edu/~cv-fall2012/slides/jake-expt.pdf) - Fathi, A., Hodgins, J. K., & Rehg, J. M., CVPR 2012.
+
+
+### Pose Estimation
+
+- [You2Me: Inferring Body Pose in Egocentric Video via First and Second Person Interactions](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ng_You2Me_Inferring_Body_Pose_in_Egocentric_Video_via_First_and_CVPR_2020_paper.pdf) - Ng, Evonne and Xiang, Donglai and Joo, Hanbyul and Grauman, Kristen, CVPR 2020. [[demo]](https://www.youtube.com/watch?v=BUObbn7i_qo) [[project page]](http://vision.cs.utexas.edu/projects/you2me/) [[dataset]](https://github.com/facebookresearch/you2me/tree/master/data#) [[code]](https://github.com/facebookresearch/you2me#)
+
+- [Ego-Pose Estimation and Forecasting as Real-Time PD Control](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf) - Ye Yuan and Kris Kitani, ICCV 2019. [[code]](https://github.com/Khrylx/EgoPose) [[project page]](https://www.ye-yuan.com/ego-pose) [[demo]](https://youtu.be/968IIDZeWE0)
+
+- [xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tome_xR-EgoPose_Egocentric_3D_Human_Pose_From_an_HMD_Camera_ICCV_2019_paper.pdf) - Tome, Denis and Peluse, Patrick and Agapito, Lourdes and Badino, Hernan, ICCV 2019. [[demo]](https://www.youtube.com/watch?v=zem03fZWLrQ) [[dataset]](https://github.com/facebookresearch/xR-EgoPose)
 
 
 ### Miscellaneous
@@ -105,7 +124,7 @@
 - [Detecting engagement in egocentric video](http://www.cs.utexas.edu/~grauman/papers/su-eccv2016-ego.pdf) - Su, Y.C., & Grauman, K., ECCV 2016.
 
 - [You-Do, I-Learn: Discovering Task Relevant Objects and their Modes
-of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You-Do-I-Learn/Damen_BMVC2014.pdf) - Damen, D., Leelasawassuk, T., Haines, O., Calway, A., & Mayol-Cuevas, W. W., BMVC 2014 [[project web]](http://www.bmva.org/bmvc/2014/papers/paper059/index.html)
+of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You-Do-I-Learn/Damen_BMVC2014.pdf) - Damen, D., Leelasawassuk, T., Haines, O., Calway, A., & Mayol-Cuevas, W. W., BMVC 2014 [[project page]](http://www.bmva.org/bmvc/2014/papers/paper059/index.html)
 
 - [Temporal segmentation of egocentric videos](https://www.cse.iitd.ac.in/~chetan/papers/egocentric-cvpr14.pdf) - Poleg, Y., Arora, C., & Peleg, S., CVPR 2014.
 
@@ -152,4 +171,4 @@ TODO
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+This is a work in progress. Contributions welcome! Read the [contribution guidelines](contributing.md) first.
