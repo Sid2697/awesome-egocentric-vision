@@ -6,7 +6,6 @@
 ## Contents
 - [Papers](#papers)
 - [Datasets](#datasets)
-- [Blogs](#blogs)
 - [TODOs](#todos)
 
 ## Papers
@@ -17,11 +16,15 @@
 
 - [LSTA: Long Short-Term Attention for Egocentric Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sudhakaran_LSTA_Long_Short-Term_Attention_for_Egocentric_Action_Recognition_CVPR_2019_paper.pdf) - Sudhakaran, Swathikiran and Escalera, Sergio and Lanz, Oswald, CVPR 2019. [[code]](https://github.com/swathikirans/LSTA)
 
+- [Egocentric Activity Recognition on a Budget](https://openaccess.thecvf.com/content_cvpr_2018/papers/Possas_Egocentric_Activity_Recognition_CVPR_2018_paper.pdf) - Possas, Rafael and Caceres, Sheila Pinto and Ramos, Fabio, CVPR 2018. [[demo]](https://youtu.be/GBo4sFNzhtU)
+
 - [In the eye of beholder: Joint learning of gaze and actions in first person video](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf) - Li, Y., Liu, M., & Rehg, J. M., ECCV 2018.
 
 - [Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation](http://users.ece.utexas.edu/~ethomaz/papers/j2.pdf) - Dimiccoli, M., Marín, J., & Thomaz, E., Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2018.
 
 - [Privacy-Preserving Human Activity Recognition from Extreme Low Resolution](https://arxiv.org/pdf/1604.03196) - Ryoo, M. S., Rothrock, B., Fleming, C., & Yang, H. J., AAAI 2017.
+
+- [Jointly Recognizing Object Fluents and Tasks in Egocentric Videos](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Jointly_Recognizing_Object_ICCV_2017_paper.pdf) - Liu, Yang and Wei, Ping and Zhu, Song-Chun, ICCV 2017.
 
 - [Delving into egocentric actions](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_Delving_Into_Egocentric_2015_CVPR_paper.pdf) - Li, Y., Ye, Z., & Rehg, J. M., CVPR 2015.
 
@@ -46,6 +49,10 @@
 
 - [Analysis of Hand Segmentation in the Wild](https://arxiv.org/pdf/1803.03317) - Aisha Urooj, Ali Borj, CVPR 2018.
 
+- [First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Garcia-Hernando_First-Person_Hand_Action_CVPR_2018_paper.pdf) - Garcia-Hernando, Guillermo and Yuan, Shanxin and Baek, Seungryul and Kim, Tae-Kyun, CVPR 2018. [[project page]](https://guiggh.github.io/publications/first-person-hands/) [[code]](https://github.com/guiggh/hand_pose_action)
+
+- [Egocentric Gesture Recognition Using Recurrent 3D Convolutional Neural Networks with Spatiotemporal Transformer Modules](https://openaccess.thecvf.com/content_ICCV_2017/papers/Cao_Egocentric_Gesture_Recognition_ICCV_2017_paper.pdf) - Cao, Congqi and Zhang, Yifan and Wu, Yi and Lu, Hanqing and Cheng, Jian, ICCV 2017.
+
 - [Lending a hand: Detecting hands and recognizing activities in complex egocentric interactions](http://homes.sice.indiana.edu/sbambach/papers/iccv-egohands.pdf) - Bambach, S., Lee, S., Crandall, D. J., & Yu, C., ICCV 2015.
 
 - [Context-based vision system for place and object recognition](https://www.cs.ubc.ca/~murphyk/Papers/iccv03.pdf) - Torralba, A., Murphy, K. P., Freeman, W. T., & Rubin, M. A., ICCV 2003. [[project page]](https://www.cs.ubc.ca/~murphyk/Vision/placeRecognition.html)
@@ -59,6 +66,8 @@
 
 - [What Would You Expect? Anticipating Egocentric Actions with Rolling-Unrolling LSTMs and Modality Attention](https://arxiv.org/pdf/1905.09035) - Antonino Furnari, Giovanni Maria Farinella, ICCV 2019 [[code]](https://github.com/fpv-iplab/rulstm) [[demo]](https://youtu.be/buIEKFHTVIg)
 
+- [Digging Deeper into Egocentric Gaze Prediction](https://arxiv.org/pdf/1904.06090) - Hamed R. Tavakoli and Esa Rahtu and Juho Kannala and Ali Borji, WACV 2019.
+
 - [Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition](https://arxiv.org/pdf/1803.09125) - Huang, Y., Cai, M., Li, Z., & Sato, Y., ECCV 2018 [[code]](https://github.com/hyf015/egocentric-gaze-prediction)
 
 - [Deep future gaze: Gaze anticipation on egocentric videos using adversarial networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf) - Zhang, M., Teck Ma, K., Hwee Lim, J., Zhao, Q., & Feng, J., CVPR 2017.
@@ -70,13 +79,15 @@
 
 ### Localization
 
-- [Hand-Priming in Object Localization for Assistive Egocentric Vision](https://openaccess.thecvf.com/content_WACV_2020/papers/Lee_Hand-Priming_in_Object_Localization_for_Assistive_Egocentric_Vision_WACV_2020_paper.pdf) - Lee, Kyungjun and Shrivastava, Abhinav and Kacorri, Hernisa, WACV 2020. 
+- [Hand-Priming in Object Localization for Assistive Egocentric Vision](https://openaccess.thecvf.com/content_WACV_2020/papers/Lee_Hand-Priming_in_Object_Localization_for_Assistive_Egocentric_Vision_WACV_2020_paper.pdf) - Lee, Kyungjun and Shrivastava, Abhinav and Kacorri, Hernisa, WACV 2020.
 
 - [Egocentric Shopping Cart Localization](https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/home/_paper/egocentric%20shopping%20cart%20localization.pdf) - E. Spera, A. Furnari, S. Battiato, G. M. Farinella, ICPR 2018.
 
 - [Recognizing personal locations from egocentric videos](https://ieeexplore.ieee.org/document/7588113) - Furnari, A., Farinella, G. M., & Battiato, S., IEEE Transactions on Human-Machine Systems 2017.
 
 - [Personal-Location-Based Temporal Segmentation of Egocentric Video for Lifelogging Applications](https://iplab.dmi.unict.it/PersonalLocationSegmentation/downloads/furnari2018personal.pdf) - A. Furnari, G. M. Farinella, S. Battiato, Journal of Visual Communication and Image Representation 2017 [[demo]](https://youtu.be/URM0EdYuKEw) [[project page]](https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/)
+
+- [Egocentric Future Localization](https://openaccess.thecvf.com/content_cvpr_2016/papers/Park_Egocentric_Future_Localization_CVPR_2016_paper.pdf) - Park, Hyun Soo and Hwang, Jyh-Jing and Niu, Yedong and Shi, Jianbo, CVPR 2016. [[demo]](https://www.youtube.com/watch?v=i_9CTMZ60zc)
 
 - [Real-time localization and mapping with wearable active vision](https://ieeexplore.ieee.org/document/1240684) - Davison, A. J., Mayol, W. W., & Murray, D. W., The Second IEEE and ACM International Symposium 2003.
 
@@ -99,6 +110,8 @@
 
 - [Deep Dual Relation Modeling for Egocentric Interaction Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf) - Li, Haoxin and Cai, Yijun and Zheng, Wei-Shi, CVPR 2019.
 
+- [Recognizing Micro-Actions and Reactions from Paired Egocentric Videos](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yonetani_Recognizing_Micro-Actions_and_CVPR_2016_paper.pdf) - Yonetani, Ryo and Kitani, Kris M. and Sato, Yoichi, CVPR 2016.
+
 - [Social interactions: A first-person perspective](http://www.cs.utexas.edu/~cv-fall2012/slides/jake-expt.pdf) - Fathi, A., Hodgins, J. K., & Rehg, J. M., CVPR 2012.
 
 
@@ -115,13 +128,29 @@
 
 - [H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tekin_HO_Unified_Egocentric_Recognition_of_3D_Hand-Object_Poses_and_Interactions_CVPR_2019_paper.pdf) - Tekin, Bugra and Bogo, Federica and Pollefeys, Marc, CVPR 2019. [[video]](https://www.youtube.com/watch?v=ko6kNZ9DuAk&t=3240)
 
+- [EGO-SLAM: A Robust Monocular SLAM for Egocentric Videos](https://www.cse.iitd.ac.in/~chetan/papers/wacv19-egoslam.pdf) - Suvam Patra and Kartikeya Gupta and Faran Ahmad and Chetan Arora and Subhashis Banerjee, WACV 2019. [[code]](https://github.com/IITD-COMPUTER-VISION-GROUP/ego-slam)
+
+- [Egocentric Basketball Motion Planning from a Single First-Person Image](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bertasius_Egocentric_Basketball_Motion_CVPR_2018_paper.pdf) - Bertasius, Gedas and Chan, Aaron and Shi, Jianbo, CVPR 2018. [[demo]](https://youtu.be/wRRRl4QsUQg)
+
+- [Trespassing the Boundaries: Labeling Temporal Bounds for Object Interactions in Egocentric Video](https://openaccess.thecvf.com/content_ICCV_2017/papers/Moltisanti_Trespassing_the_Boundaries_ICCV_2017_paper.pdf) - Moltisanti, Davide and Wray, Michael and Mayol-Cuevas, Walterio and Damen, Dima, ICCV 2017.
+
+- [Jointly Learning Energy Expenditures and Activites using Egocentric Multimodal Signals](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nakamura_Jointly_Learning_Energy_CVPR_2017_paper.pdf) - Nakamura, Katsuyuki and Yeung, Serena and Alahi, Alexandre and Fei-Fei, Li, CVPR 2017.
+
+- [Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Seeing_Invisible_Poses_CVPR_2017_paper.pdf) - Jiang, Hao and Grauman, Kristen, CVPR 2017.
+
 - [Toward storytelling from visual lifelogging: An overview](https://arxiv.org/pdf/1507.06120.pdf) - Bolanos, M., Dimiccoli, M., & Radeva, P., IEEE Transactions on Human-Machine Systems 2017.
 
 - [Automated capture and delivery of assistive task guidance with an eyewear computer: the GlaciAR system](https://arxiv.org/pdf/1701.02586) - Leelasawassuk, Teesid, Dima Damen, and Walterio Mayol-Cuevas, Augmented Human International Conference, ACM 2017.
 
+- [Walk and Learn: Facial Attribute Representation Learning from Egocentric Video and Contextual Data](https://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_Walk_and_Learn_CVPR_2016_paper.pdf) - Wang, Jing and Cheng, Yu and Feris, Rogerio Schmidt, CVPR 2016. [[demo]](https://www.youtube.com/watch?v=AQKS20Eo7uQ)
+
 - [Multi-face tracking by extended bag-of-tracklets in egocentric photo-streams](https://www.sciencedirect.com/science/article/abs/pii/S1077314216000679) - Aghaei, M., Dimiccoli, M., & Radeva, P., Computer Vision and Image Understanding 2016.
 
 - [Detecting engagement in egocentric video](http://www.cs.utexas.edu/~grauman/papers/su-eccv2016-ego.pdf) - Su, Y.C., & Grauman, K., ECCV 2016.
+
+- [EgoSampling: Fast-Forward and Stereo for Egocentric Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Poleg_EgoSampling_Fast-Forward_and_2015_CVPR_paper.pdf) - Poleg, Yair and Halperin, Tavi and Arora, Chetan and Peleg, Shmuel, CVPR 2015.
+
+- [Ego-Surfing First Person Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Yonetani_Ego-Surfing_First-Person_Videos_2015_CVPR_paper.pdf) - Yonetani, Ryo and Kitani, Kris M. and Sato, Yoichi, CVPR 2015.
 
 - [You-Do, I-Learn: Discovering Task Relevant Objects and their Modes
 of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You-Do-I-Learn/Damen_BMVC2014.pdf) - Damen, D., Leelasawassuk, T., Haines, O., Calway, A., & Mayol-Cuevas, W. W., BMVC 2014 [[project page]](http://www.bmva.org/bmvc/2014/papers/paper059/index.html)
@@ -161,9 +190,6 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 - [THU-READ](http://ivg.au.tsinghua.edu.cn/dataset/THU_READ.php) - 8 subjects performing 40 actions with a head-mounted RGBD camera.
 - [EgoDexter](https://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) - 4 sequences with 4 actors (2 female), and varying interactions with various objects and and cluttered background. [[paper]](https://handtracker.mpi-inf.mpg.de/projects/OccludedHands/index.htm)
 - [First-Person Hand Action (FPHA)](https://guiggh.github.io/publications/first-person-hands/) - 3D hand-object interaction. Includes 1175 videos belonging to 45 different activity categories performed by 6 actors. [[paper]](https://arxiv.org/pdf/1704.02463.pdf)
-
-## Blogs
-TODO
 
 ## TODOs
 - Add blogs.
