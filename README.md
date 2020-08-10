@@ -163,7 +163,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 - [EPIC-Kitchens 2020](https://epic-kitchens.github.io/2020-100) - Subjects performing unscripted actions in their native environments.
 - [EPIC-Kitchens 2018](https://epic-kitchens.github.io/2018) - 32 subjects performing unscripted actions in their native environments.
 - [Charade-Ego](https://allenai.org/plato/charades/) - Paired first-third person videos.
-- [EGTEA Gaze+](http://ai.stanford.edu/~alireza/GTEA/) - 32 subjects, 86 cooking sessions, 28 hours.
+- [EGTEA Gaze+](http://cbs.ic.gatech.edu/fpv/) - 32 subjects, 86 cooking sessions, 28 hours.
 - [ADL](https://www.csee.umbc.edu/~hpirsiav/papers/ADLdataset/) - 20 subjects performing daily activities in their native environments.
 - [CMU kitchen](http://www.cs.cmu.edu/~espriggs/cmu-mmac/annotations/) - Multimodal, 18 subjects cooking 5 different recipes: brownies, eggs, pizza, salad, sandwich.
 - [EgoSeg](http://www.vision.huji.ac.il/egoseg/) - Long term actions (walking, running, driving, etc.)
