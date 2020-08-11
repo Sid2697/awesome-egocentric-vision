@@ -47,6 +47,8 @@
 
 - [Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_Generalizing_Hand_Segmentation_in_Egocentric_Videos_With_Uncertainty-Guided_Model_Adaptation_CVPR_2020_paper.pdf) - Minjie Cai and Feng Lu and Yoichi Sato, CVPR 2020. [[code]](https://github.com/cai-mj/UMA)
 
+- [H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tekin_HO_Unified_Egocentric_Recognition_of_3D_Hand-Object_Poses_and_Interactions_CVPR_2019_paper.pdf) - Tekin, Bugra and Bogo, Federica and Pollefeys, Marc, CVPR 2019. [[video]](https://www.youtube.com/watch?v=ko6kNZ9DuAk&t=3240)
+
 - [Analysis of Hand Segmentation in the Wild](https://arxiv.org/pdf/1803.03317) - Aisha Urooj, Ali Borj, CVPR 2018.
 
 - [First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations](https://openaccess.thecvf.com/content_cvpr_2018/papers/Garcia-Hernando_First-Person_Hand_Action_CVPR_2018_paper.pdf) - Garcia-Hernando, Guillermo and Yuan, Shanxin and Baek, Seungryul and Kim, Tae-Kyun, CVPR 2018. [[project page]](https://guiggh.github.io/publications/first-person-hands/) [[code]](https://github.com/guiggh/hand_pose_action)
@@ -125,8 +127,6 @@
 
 
 ### Miscellaneous
-
-- [H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tekin_HO_Unified_Egocentric_Recognition_of_3D_Hand-Object_Poses_and_Interactions_CVPR_2019_paper.pdf) - Tekin, Bugra and Bogo, Federica and Pollefeys, Marc, CVPR 2019. [[video]](https://www.youtube.com/watch?v=ko6kNZ9DuAk&t=3240)
 
 - [EGO-SLAM: A Robust Monocular SLAM for Egocentric Videos](https://www.cse.iitd.ac.in/~chetan/papers/wacv19-egoslam.pdf) - Suvam Patra and Kartikeya Gupta and Faran Ahmad and Chetan Arora and Subhashis Banerjee, WACV 2019. [[code]](https://github.com/IITD-COMPUTER-VISION-GROUP/ego-slam)
 
