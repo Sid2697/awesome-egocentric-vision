@@ -30,6 +30,10 @@
 
 - [Jointly Recognizing Object Fluents and Tasks in Egocentric Videos](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Jointly_Recognizing_Object_ICCV_2017_paper.pdf) - Liu, Yang and Wei, Ping and Zhu, Song-Chun, ICCV 2017.
 
+- [Trajectory Aligned Features For First Person Action Recognition](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/JournalPublications/2016/Suriya_2016_Trajectory_Features.pdf) - S. Singh, C. Arora, and C.V. Jawahar, Pattern Recognition 2017. [[video]](https://www.youtube.com/watch?v=L-73kgvrkho)
+
+- [First Person Action Recognition Using Deep Learned Descriptors](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S12-15.pdf) - S. Singh, C. Arora, and C.V. Jawahar, CVPR 2016. [[project page]](http://cvit.iiit.ac.in/research/projects/cvit-projects/first-person-action-recognition) [[code]](https://github.com/suriyasingh/EgoConvNet)
+
 - [Understanding Hand-Object Manipulation with Grasp Types and Object Attributes](http://www.cs.cmu.edu/~kkitani/pdf/CKY-RSS16.pdf) - Minjie Cai and Kris M. Kitani and Yoichi Sato, Robotics: Science and Systems 2016.
 
 - [Delving into egocentric actions](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_Delving_Into_Egocentric_2015_CVPR_paper.pdf) - Li, Y., Ye, Z., & Rehg, J. M., CVPR 2015.
@@ -81,6 +85,8 @@
 - [Digging Deeper into Egocentric Gaze Prediction](https://arxiv.org/pdf/1904.06090) - Hamed R. Tavakoli and Esa Rahtu and Juho Kannala and Ali Borji, WACV 2019.
 
 - [Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition](https://arxiv.org/pdf/1803.09125) - Huang, Y., Cai, M., Li, Z., & Sato, Y., ECCV 2018 [[code]](https://github.com/hyf015/egocentric-gaze-prediction)
+
+- [First-Person Activity Forecasting with Online Inverse Reinforcement Learning](https://arxiv.org/pdf/1612.07796) - Nicholas Rhinehart, Kris M. Kitani, ICCV 2017. [[project page]](https://people.eecs.berkeley.edu/~nrhinehart/darko.html) [[video]](https://youtu.be/rvVoW3iuq-s)
 
 - [Deep future gaze: Gaze anticipation on egocentric videos using adversarial networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf) - Zhang, M., Teck Ma, K., Hwee Lim, J., Zhao, Q., & Feng, J., CVPR 2017.
 
