@@ -71,6 +71,10 @@
 
 - [Lending a hand: Detecting hands and recognizing activities in complex egocentric interactions](http://homes.sice.indiana.edu/sbambach/papers/iccv-egohands.pdf) - Bambach, S., Lee, S., Crandall, D. J., & Yu, C., ICCV 2015.
 
+- [Detecting Snap Points in Egocentric Video with a Web Photo Prior](https://www.cs.utexas.edu/~grauman/papers/bo-eccv2014.pdf) - Bo Xiong and Kristen Grauman, ECCV 2014. [[project page]](http://vision.cs.utexas.edu/projects/ego_snappoints/) [[code]](http://vision.cs.utexas.edu/projects/ego_snappoints/#code)
+
+- [Pixel-level hand detection in ego-centric videos](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Li_Pixel-Level_Hand_Detection_2013_CVPR_paper.pdf) - Li, Cheng, and Kris M. Kitani. CVPR 2013. [[video]](https://youtu.be/N756YmLpZyY) [[code]](https://github.com/irllabs/handtrack)
+
 - [Context-based vision system for place and object recognition](https://www.cs.ubc.ca/~murphyk/Papers/iccv03.pdf) - Torralba, A., Murphy, K. P., Freeman, W. T., & Rubin, M. A., ICCV 2003. [[project page]](https://www.cs.ubc.ca/~murphyk/Vision/placeRecognition.html)
 
 
