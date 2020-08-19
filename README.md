@@ -82,7 +82,7 @@
 
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf) - Miao Liu, Siyu Tang, Yin Li, James M. Rehg, ECCV 2020. [[project page]](https://aptx4869lm.github.io/ForecastingHOI/)
 
-- [How Can I See My Future? FvTraj: Using First-person View for Pedestrian Trajectory Prediction](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520562.pdf) - Huikun Bi, Ruisi Zhang, Tianlu Mao, Zhigang Deng, Zhaoqi Wang, 
+- [How Can I See My Future? FvTraj: Using First-person View for Pedestrian Trajectory Prediction](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520562.pdf) - Huikun Bi, Ruisi Zhang, Tianlu Mao, Zhigang Deng, Zhaoqi Wang, ECCV 2020. [[presentation video]](https://www.youtube.com/watch?v=HcsyH7zMHAw&list=PLTxUhThjvsLayVtWW9mW-kt-FCMeIQOYw&index=5) [[summary video]](https://www.youtube.com/watch?v=X1cSNWT6Gr0&list=PLTxUhThjvsLayVtWW9mW-kt-FCMeIQOYw&index=6)
 
 - [Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior](https://openaccess.thecvf.com/content_CVPR_2020/papers/Makansi_Multimodal_Future_Localization_and_Emergence_Prediction_for_Objects_in_Egocentric_CVPR_2020_paper.pdf) - Makansi, Osama and Cicek, Ozgun and Buchicchio, Kevin and Brox, Thomas, CVPR 2020. [[demo]](https://www.youtube.com/watch?v=_9Ml5IFwbSY) [[code]](https://github.com/lmb-freiburg/FLN-EPN-RPN) [[project page]](https://lmb.informatik.uni-freiburg.de/Publications/2020/MCBB20/)
 
