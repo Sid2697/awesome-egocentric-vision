@@ -129,7 +129,7 @@
 
 - [Story-Driven Summarization for Egocentric Video](https://www.cs.utexas.edu/~grauman/papers/lu-grauman-cvpr2013.pdf) - Zheng Lu and Kristen Grauman, CVPR 2013 [[project page]](http://vision.cs.utexas.edu/projects/egocentric/storydriven.html)
 
-- [Discovering Important People and Objects for Egocentric Video Summarization](http://vision.cs.utexas.edu/projects/egocentric/egocentric_cvpr2012.pdf) - Yong Jae Lee, Joydeep Ghosh, and Kristen Grauman, CVPR 2012.
+- [Discovering Important People and Objects for Egocentric Video Summarization](http://vision.cs.utexas.edu/projects/egocentric/egocentric_cvpr2012.pdf) - Yong Jae Lee, Joydeep Ghosh, and Kristen Grauman, CVPR 2012. [[project page]](http://vision.cs.utexas.edu/projects/egocentric/index.html)
 
 
 ### Social Interactions
