@@ -96,7 +96,7 @@
 
 - [First-Person Activity Forecasting with Online Inverse Reinforcement Learning](https://arxiv.org/pdf/1612.07796) - Nicholas Rhinehart, Kris M. Kitani, ICCV 2017. [[project page]](https://people.eecs.berkeley.edu/~nrhinehart/darko.html) [[video]](https://youtu.be/rvVoW3iuq-s)
 
-- [Deep future gaze: Gaze anticipation on egocentric videos using adversarial networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf) - Zhang, M., Teck Ma, K., Hwee Lim, J., Zhao, Q., & Feng, J., CVPR 2017.
+- [Deep future gaze: Gaze anticipation on egocentric videos using adversarial networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf) - Zhang, M., Teck Ma, K., Hwee Lim, J., Zhao, Q., & Feng, J., CVPR 2017. [[code]](https://github.com/Mengmi/deepfuturegaze_gan)
 
 - [Going deeper into first-person activity recognition](http://www.cs.cmu.edu/~kkitani/pdf/MFK-CVPR2016.pdf) - Ma, M., Fan, H., & Kitani, K. M., CVPR 2016.
 
