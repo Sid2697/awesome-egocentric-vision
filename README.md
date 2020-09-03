@@ -1,6 +1,7 @@
 # Awesome Egocentric Vision [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of egocentric vision resources.
+
 Egocentric (first-person) vision is a sub-field of computer vision that analyses image/video data obtained using a wearable camera simulating a person's visual field.
 
 ## Contents
