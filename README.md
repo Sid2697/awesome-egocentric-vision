@@ -31,7 +31,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Jointly Recognizing Object Fluents and Tasks in Egocentric Videos](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Jointly_Recognizing_Object_ICCV_2017_paper.pdf) - Liu, Yang and Wei, Ping and Zhu, Song-Chun, ICCV 2017.
 
-- [Trajectory Aligned Features For First Person Action Recognition](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/JournalPublications/2016/Suriya_2016_Trajectory_Features.pdf) - S. Singh, C. Arora, and C.V. Jawahar, Pattern Recognition 2017. [[video]](https://www.youtube.com/watch?v=L-73kgvrkho)
+- [Trajectory Aligned Features For First Person Action Recognition](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/JournalPublications/2016/Suriya_2016_Trajectory_Features.pdf) - S. Singh, C. Arora, and C.V. Jawahar, Pattern Recognition 2017. 
+<!-- [[video]](https://www.youtube.com/watch?v=L-73kgvrkho) -->
 
 - [First Person Action Recognition Using Deep Learned Descriptors](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S12-15.pdf) - S. Singh, C. Arora, and C.V. Jawahar, CVPR 2016. [[project page]](http://cvit.iiit.ac.in/research/projects/cvit-projects/first-person-action-recognition) [[code]](https://github.com/suriyasingh/EgoConvNet)
 
@@ -62,7 +63,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_Generalizing_Hand_Segmentation_in_Egocentric_Videos_With_Uncertainty-Guided_Model_Adaptation_CVPR_2020_paper.pdf) - Minjie Cai and Feng Lu and Yoichi Sato, CVPR 2020. [[code]](https://github.com/cai-mj/UMA)
 
-- [H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tekin_HO_Unified_Egocentric_Recognition_of_3D_Hand-Object_Poses_and_Interactions_CVPR_2019_paper.pdf) - Tekin, Bugra and Bogo, Federica and Pollefeys, Marc, CVPR 2019. [[video]](https://www.youtube.com/watch?v=ko6kNZ9DuAk&t=3240)
+- [H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tekin_HO_Unified_Egocentric_Recognition_of_3D_Hand-Object_Poses_and_Interactions_CVPR_2019_paper.pdf) - Tekin, Bugra and Bogo, Federica and Pollefeys, Marc, CVPR 2019. [[video]](https://youtu.be/ko6kNZ9DuAk?t=3240)
 
 - [Analysis of Hand Segmentation in the Wild](https://arxiv.org/pdf/1803.03317) - Aisha Urooj, Ali Borj, CVPR 2018.
 
@@ -83,9 +84,9 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf) - Miao Liu, Siyu Tang, Yin Li, James M. Rehg, ECCV 2020. [[project page]](https://aptx4869lm.github.io/ForecastingHOI/)
 
-- [How Can I See My Future? FvTraj: Using First-person View for Pedestrian Trajectory Prediction](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520562.pdf) - Huikun Bi, Ruisi Zhang, Tianlu Mao, Zhigang Deng, Zhaoqi Wang, ECCV 2020. [[presentation video]](https://www.youtube.com/watch?v=HcsyH7zMHAw&list=PLTxUhThjvsLayVtWW9mW-kt-FCMeIQOYw&index=5) [[summary video]](https://www.youtube.com/watch?v=X1cSNWT6Gr0&list=PLTxUhThjvsLayVtWW9mW-kt-FCMeIQOYw&index=6)
+- [How Can I See My Future? FvTraj: Using First-person View for Pedestrian Trajectory Prediction](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520562.pdf) - Huikun Bi, Ruisi Zhang, Tianlu Mao, Zhigang Deng, Zhaoqi Wang, ECCV 2020. [[presentation video]](https://youtu.be/HcsyH7zMHAw) [[summary video]](https://youtu.be/X1cSNWT6Gr0)
 
-- [Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior](https://openaccess.thecvf.com/content_CVPR_2020/papers/Makansi_Multimodal_Future_Localization_and_Emergence_Prediction_for_Objects_in_Egocentric_CVPR_2020_paper.pdf) - Makansi, Osama and Cicek, Ozgun and Buchicchio, Kevin and Brox, Thomas, CVPR 2020. [[demo]](https://www.youtube.com/watch?v=_9Ml5IFwbSY) [[code]](https://github.com/lmb-freiburg/FLN-EPN-RPN) [[project page]](https://lmb.informatik.uni-freiburg.de/Publications/2020/MCBB20/)
+- [Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior](https://openaccess.thecvf.com/content_CVPR_2020/papers/Makansi_Multimodal_Future_Localization_and_Emergence_Prediction_for_Objects_in_Egocentric_CVPR_2020_paper.pdf) - Makansi, Osama and Cicek, Ozgun and Buchicchio, Kevin and Brox, Thomas, CVPR 2020. [[demo]](https://youtu.be/_9Ml5IFwbSY) [[code]](https://github.com/lmb-freiburg/FLN-EPN-RPN) [[project page]](https://lmb.informatik.uni-freiburg.de/Publications/2020/MCBB20/)
 
 - [EGO-TOPO: Environment Affordances from Egocentric Video](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nagarajan_Ego-Topo_Environment_Affordances_From_Egocentric_Video_CVPR_2020_paper.pdf) - Nagarajan, Tushar and Li, Yanghao and Feichtenhofer, Christoph and Grauman, Kristen, CVPR 2020. [[project page]](http://vision.cs.utexas.edu/projects/ego-topo/) [[demo]](http://vision.cs.utexas.edu/projects/ego-topo/demo.html)
 
@@ -114,7 +115,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Personal-Location-Based Temporal Segmentation of Egocentric Video for Lifelogging Applications](https://iplab.dmi.unict.it/PersonalLocationSegmentation/downloads/furnari2018personal.pdf) - A. Furnari, G. M. Farinella, S. Battiato, Journal of Visual Communication and Image Representation 2017 [[demo]](https://youtu.be/URM0EdYuKEw) [[project page]](https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/)
 
-- [Egocentric Future Localization](https://openaccess.thecvf.com/content_cvpr_2016/papers/Park_Egocentric_Future_Localization_CVPR_2016_paper.pdf) - Park, Hyun Soo and Hwang, Jyh-Jing and Niu, Yedong and Shi, Jianbo, CVPR 2016. [[demo]](https://www.youtube.com/watch?v=i_9CTMZ60zc)
+- [Egocentric Future Localization](https://openaccess.thecvf.com/content_cvpr_2016/papers/Park_Egocentric_Future_Localization_CVPR_2016_paper.pdf) - Park, Hyun Soo and Hwang, Jyh-Jing and Niu, Yedong and Shi, Jianbo, CVPR 2016. [[demo]](https://youtu.be/i_9CTMZ60zc)
 
 - [Real-time localization and mapping with wearable active vision](https://ieeexplore.ieee.org/document/1240684) - Davison, A. J., Mayol, W. W., & Murray, D. W., The Second IEEE and ACM International Symposium 2003.
 
@@ -144,11 +145,11 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Pose Estimation
 
-- [You2Me: Inferring Body Pose in Egocentric Video via First and Second Person Interactions](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ng_You2Me_Inferring_Body_Pose_in_Egocentric_Video_via_First_and_CVPR_2020_paper.pdf) - Ng, Evonne and Xiang, Donglai and Joo, Hanbyul and Grauman, Kristen, CVPR 2020. [[demo]](https://www.youtube.com/watch?v=BUObbn7i_qo) [[project page]](http://vision.cs.utexas.edu/projects/you2me/) [[dataset]](https://github.com/facebookresearch/you2me/tree/master/data#) [[code]](https://github.com/facebookresearch/you2me#)
+- [You2Me: Inferring Body Pose in Egocentric Video via First and Second Person Interactions](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ng_You2Me_Inferring_Body_Pose_in_Egocentric_Video_via_First_and_CVPR_2020_paper.pdf) - Ng, Evonne and Xiang, Donglai and Joo, Hanbyul and Grauman, Kristen, CVPR 2020. [[demo]](http://vision.cs.utexas.edu/projects/you2me/demo.mp4) [[project page]](http://vision.cs.utexas.edu/projects/you2me/) [[dataset]](https://github.com/facebookresearch/you2me/tree/master/data#) [[code]](https://github.com/facebookresearch/you2me#)
 
 - [Ego-Pose Estimation and Forecasting as Real-Time PD Control](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf) - Ye Yuan and Kris Kitani, ICCV 2019. [[code]](https://github.com/Khrylx/EgoPose) [[project page]](https://www.ye-yuan.com/ego-pose) [[demo]](https://youtu.be/968IIDZeWE0)
 
-- [xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tome_xR-EgoPose_Egocentric_3D_Human_Pose_From_an_HMD_Camera_ICCV_2019_paper.pdf) - Tome, Denis and Peluse, Patrick and Agapito, Lourdes and Badino, Hernan, ICCV 2019. [[demo]](https://www.youtube.com/watch?v=zem03fZWLrQ) [[dataset]](https://github.com/facebookresearch/xR-EgoPose)
+- [xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tome_xR-EgoPose_Egocentric_3D_Human_Pose_From_an_HMD_Camera_ICCV_2019_paper.pdf) - Tome, Denis and Peluse, Patrick and Agapito, Lourdes and Badino, Hernan, ICCV 2019. [[demo]](https://youtu.be/zem03fZWLrQ) [[dataset]](https://github.com/facebookresearch/xR-EgoPose)
 
 
 ### Miscellaneous
@@ -169,7 +170,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Automated capture and delivery of assistive task guidance with an eyewear computer: the GlaciAR system](https://arxiv.org/pdf/1701.02586) - Leelasawassuk, Teesid, Dima Damen, and Walterio Mayol-Cuevas, Augmented Human International Conference, ACM 2017.
 
-- [Walk and Learn: Facial Attribute Representation Learning from Egocentric Video and Contextual Data](https://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_Walk_and_Learn_CVPR_2016_paper.pdf) - Wang, Jing and Cheng, Yu and Feris, Rogerio Schmidt, CVPR 2016. [[demo]](https://www.youtube.com/watch?v=AQKS20Eo7uQ)
+- [Walk and Learn: Facial Attribute Representation Learning from Egocentric Video and Contextual Data](https://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_Walk_and_Learn_CVPR_2016_paper.pdf) - Wang, Jing and Cheng, Yu and Feris, Rogerio Schmidt, CVPR 2016. [[demo]](https://youtu.be/AQKS20Eo7uQ)
 
 - [Compact CNN for Indexing Egocentric Videos](https://www.cs.huji.ac.il/~peleg/papers/wacv16-cnn-indexing.pdf) - Y. Poleg, E. Phrat, S. Peleg, and C. Arora, WACV, 2016.
 
