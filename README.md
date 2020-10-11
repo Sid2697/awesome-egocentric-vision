@@ -210,7 +210,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 - [Simulated Egocentric Navigations](http://iplab.dmi.unict.it/SimulatedEgocentricNavigations/) - Simulated navigations of a virtual agent within a large building.
 - [EgoCart](http://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/) - Egocentric images collected by a shopping cart in a retail store.
 - [Unsupervised Segmentation of Daily Livign Activities](http://iplab.dmi.unict.it/dailylivingactivities) - Egocentric videos of daily activities.
-- [Visual Market Basket Analysis](http://iplab.dmi.unict.it/vmba/) - Egocentric images colelcted by a shopping cart in a retail store.
+- [Visual Market Basket Analysis](http://iplab.dmi.unict.it/vmba/) - Egocentric images collected by a shopping cart in a retail store.
 - [Location Based Segmentation of Egocentric Videos](http://iplab.dmi.unict.it/PersonalLocationSegmentation/) - Egocentric videos of daily activities.
 - [Recognition of Personal Locations from Egocentric Videos](http://iplab.dmi.unict.it/PersonalLocations/) - Egocentric videos clips of daily.
 - [EgoGesture](http://www.nlpr.ia.ac.cn/iva/yfzhang/datasets/egogesture.html) - 2k videos from 50 subjects performing 83 gestures.
