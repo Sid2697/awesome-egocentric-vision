@@ -31,8 +31,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Jointly Recognizing Object Fluents and Tasks in Egocentric Videos](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Jointly_Recognizing_Object_ICCV_2017_paper.pdf) - Liu, Yang and Wei, Ping and Zhu, Song-Chun, ICCV 2017.
 
-- [Trajectory Aligned Features For First Person Action Recognition](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/JournalPublications/2016/Suriya_2016_Trajectory_Features.pdf) - S. Singh, C. Arora, and C.V. Jawahar, Pattern Recognition 2017. 
-<!-- [[video]](https://www.youtube.com/watch?v=L-73kgvrkho) -->
+- [Trajectory Aligned Features For First Person Action Recognition](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/JournalPublications/2016/Suriya_2016_Trajectory_Features.pdf) - S. Singh, C. Arora, and C.V. Jawahar, Pattern Recognition 2017.
 
 - [First Person Action Recognition Using Deep Learned Descriptors](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S12-15.pdf) - S. Singh, C. Arora, and C.V. Jawahar, CVPR 2016. [[project page]](http://cvit.iiit.ac.in/research/projects/cvit-projects/first-person-action-recognition) [[code]](https://github.com/suriyasingh/EgoConvNet)
 
