@@ -151,6 +151,13 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 - [xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tome_xR-EgoPose_Egocentric_3D_Human_Pose_From_an_HMD_Camera_ICCV_2019_paper.pdf) - Tome, Denis and Peluse, Patrick and Agapito, Lourdes and Badino, Hernan, ICCV 2019. [[demo]](https://youtu.be/zem03fZWLrQ) [[dataset]](https://github.com/facebookresearch/xR-EgoPose)
 
 
+### Human Object Interaction
+
+- [The MECCANO Dataset: Understanding Human-Object Interactions from Egocentric Videos in an Industrial-like Domain](https://arxiv.org/abs/2010.05654) - Francesco Ragusa and Antonino Furnari and Salvatore Livatino and Giovanni Maria Farinella, WACV 2021. [[project page]](https://iplab.dmi.unict.it/MECCANO/)
+
+- [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf) - Miao Liu, Siyu Tang, Yin Li, James M. Rehg, ECCV 2020. [[project page]](https://aptx4869lm.github.io/ForecastingHOI/)
+
+
 ### Miscellaneous
 
 - [Is Sharing of Egocentric Video Giving Away Your Biometric Signature?](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620392.pdf) - Daksh Thapar, Chetan Arora, Aditya Nigam. ECCV 2020. [[project page]](https://egocentricbiometric.github.io)
@@ -189,6 +196,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 
 ## Datasets
 
+- [MECCANO](https://iplab.dmi.unict.it/MECCANO/) - 20 subject assembling a toy motorbike.
 - [EPIC-Kitchens 2020](https://epic-kitchens.github.io/2020-100) - Subjects performing unscripted actions in their native environments.
 - [EPIC-Kitchens 2018](https://epic-kitchens.github.io/2018) - 32 subjects performing unscripted actions in their native environments.
 - [Charade-Ego](https://allenai.org/plato/charades/) - Paired first-third person videos.
