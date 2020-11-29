@@ -196,6 +196,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 
 ## Datasets
 
+- [TREK-100](https://machinelearning.uniud.it/datasets/trek100/) - Object tracking in first person vision
 - [MECCANO](https://iplab.dmi.unict.it/MECCANO/) - 20 subject assembling a toy motorbike.
 - [EPIC-Kitchens 2020](https://epic-kitchens.github.io/2020-100) - Subjects performing unscripted actions in their native environments.
 - [EPIC-Kitchens 2018](https://epic-kitchens.github.io/2018) - 32 subjects performing unscripted actions in their native environments.
