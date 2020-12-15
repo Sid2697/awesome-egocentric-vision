@@ -168,7 +168,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Trespassing the Boundaries: Labeling Temporal Bounds for Object Interactions in Egocentric Video](https://openaccess.thecvf.com/content_ICCV_2017/papers/Moltisanti_Trespassing_the_Boundaries_ICCV_2017_paper.pdf) - Moltisanti, Davide and Wray, Michael and Mayol-Cuevas, Walterio and Damen, Dima, ICCV 2017.
 
-- [Jointly Learning Energy Expenditures and Activites using Egocentric Multimodal Signals](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nakamura_Jointly_Learning_Energy_CVPR_2017_paper.pdf) - Nakamura, Katsuyuki and Yeung, Serena and Alahi, Alexandre and Fei-Fei, Li, CVPR 2017.
+- [Jointly Learning Energy Expenditures and Activities using Egocentric Multimodal Signals](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nakamura_Jointly_Learning_Energy_CVPR_2017_paper.pdf) - Nakamura, Katsuyuki and Yeung, Serena and Alahi, Alexandre and Fei-Fei, Li, CVPR 2017.
 
 - [Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Seeing_Invisible_Poses_CVPR_2017_paper.pdf) - Jiang, Hao and Grauman, Kristen, CVPR 2017.
 
@@ -196,7 +196,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 
 ## Datasets
 
-- [TREK-100](https://machinelearning.uniud.it/datasets/trek100/) - Object tracking in first person vision
+- [TREK-100](https://machinelearning.uniud.it/datasets/trek100/) - Object tracking in first person vision.
 - [MECCANO](https://iplab.dmi.unict.it/MECCANO/) - 20 subject assembling a toy motorbike.
 - [EPIC-Kitchens 2020](https://epic-kitchens.github.io/2020-100) - Subjects performing unscripted actions in their native environments.
 - [EPIC-Kitchens 2018](https://epic-kitchens.github.io/2018) - 32 subjects performing unscripted actions in their native environments.
@@ -217,7 +217,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 - [UNICT-VEDI-POI](http://iplab.dmi.unict.it/VEDI_POIs/) - Different subjects visiting a museum.
 - [Simulated Egocentric Navigations](http://iplab.dmi.unict.it/SimulatedEgocentricNavigations/) - Simulated navigations of a virtual agent within a large building.
 - [EgoCart](http://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/) - Egocentric images collected by a shopping cart in a retail store.
-- [Unsupervised Segmentation of Daily Livign Activities](http://iplab.dmi.unict.it/dailylivingactivities) - Egocentric videos of daily activities.
+- [Unsupervised Segmentation of Daily Living Activities](http://iplab.dmi.unict.it/dailylivingactivities) - Egocentric videos of daily activities.
 - [Visual Market Basket Analysis](http://iplab.dmi.unict.it/vmba/) - Egocentric images collected by a shopping cart in a retail store.
 - [Location Based Segmentation of Egocentric Videos](http://iplab.dmi.unict.it/PersonalLocationSegmentation/) - Egocentric videos of daily activities.
 - [Recognition of Personal Locations from Egocentric Videos](http://iplab.dmi.unict.it/PersonalLocations/) - Egocentric videos clips of daily.
