@@ -198,6 +198,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 - [TREK-100](https://machinelearning.uniud.it/datasets/trek100/) - Object tracking in first person vision.
 - [MECCANO](https://iplab.dmi.unict.it/MECCANO/) - 20 subject assembling a toy motorbike.
 - [EPIC-Kitchens 2020](https://epic-kitchens.github.io/2020-100) - Subjects performing unscripted actions in their native environments.
+- [EGO-CH](https://iplab.dmi.unict.it/EGO-CH/) - 70 subjects visiting two cultural sites in Sicily, Italy.
 - [EPIC-Kitchens 2018](https://epic-kitchens.github.io/2018) - 32 subjects performing unscripted actions in their native environments.
 - [Charade-Ego](https://allenai.org/plato/charades/) - Paired first-third person videos.
 - [EGTEA Gaze+](http://cbs.ic.gatech.edu/fpv/) - 32 subjects, 86 cooking sessions, 28 hours.
