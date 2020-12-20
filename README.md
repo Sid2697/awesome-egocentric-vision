@@ -7,7 +7,6 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 ## Contents
 - [Papers](#papers)
 - [Datasets](#datasets)
-- [TODOs](#todos)
 
 ## Papers
 
@@ -230,10 +229,6 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 - [First-Person Hand Action (FPHA)](https://guiggh.github.io/publications/first-person-hands/) - 3D hand-object interaction. Includes 1175 videos belonging to 45 different activity categories performed by 6 actors. [[paper]](https://arxiv.org/pdf/1704.02463.pdf)
 - [UTokyo Paired Ego-Video (PEV)](https://yonetaniryo.github.io/fpv_data.html) - 1,226 pairs of first-person clips extracted from the ones recorded synchronously during dyadic conversations.
 - [UTokyo Ego-Surf](https://yonetaniryo.github.io/fpv_data.html) - Contains 8 diverse groups of first-person videos recorded synchronously during face-to-face conversations.
-
-## TODOs
-- Add blogs.
-- Add workshops and tutorials.
 
 ## Contribute
 
