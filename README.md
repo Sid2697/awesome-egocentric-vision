@@ -231,6 +231,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 - [UTokyo Paired Ego-Video (PEV)](https://yonetaniryo.github.io/fpv_data.html) - 1,226 pairs of first-person clips extracted from the ones recorded synchronously during dyadic conversations.
 - [UTokyo Ego-Surf](https://yonetaniryo.github.io/fpv_data.html) - Contains 8 diverse groups of first-person videos recorded synchronously during face-to-face conversations.
 - [TEgO: Teachable Egocentric Objects Dataset](https://iamlabumd.github.io/tego/) -  Contains egocentric images of 19 distinct objects taken by two people for training a teachable object recognizer.
+- [Multimodal Focused Interaction Dataset](https://cvip.computing.dundee.ac.uk/datasets/focusedinteraction/) - Contains 377 minutes of continuous multimodal recording captured during 19 sessions, with 17 conversational partners in 18 different indoor/outdoor locations.
 
 ## Contribute
 
