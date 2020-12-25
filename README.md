@@ -134,6 +134,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Social Interactions
 
+- [EgoCom: A Multi-person Multi-modal Egocentric Communications Dataset](https://ieeexplore.ieee.org/document/9200754) - Curtis G. Northcutt and Shengxin Zha and Steven Lovegrove and Richard Newcombe, PAMI 2020.
+
 - [Deep Dual Relation Modeling for Egocentric Interaction Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Deep_Dual_Relation_Modeling_for_Egocentric_Interaction_Recognition_CVPR_2019_paper.pdf) - Li, Haoxin and Cai, Yijun and Zheng, Wei-Shi, CVPR 2019.
 
 - [Recognizing Micro-Actions and Reactions from Paired Egocentric Videos](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yonetani_Recognizing_Micro-Actions_and_CVPR_2016_paper.pdf) - Yonetani, Ryo and Kitani, Kris M. and Sato, Yoichi, CVPR 2016.
@@ -195,6 +197,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 
 ## Datasets
 
+- [EgoCom](https://github.com/facebookresearch/EgoCom-Dataset) - A natural conversations dataset containing multi-modal human communication data captured simultaneously from the participants' egocentric perspectives.
 - [TREK-100](https://machinelearning.uniud.it/datasets/trek100/) - Object tracking in first person vision.
 - [MECCANO](https://iplab.dmi.unict.it/MECCANO/) - 20 subject assembling a toy motorbike.
 - [EPIC-Kitchens 2020](https://epic-kitchens.github.io/2020-100) - Subjects performing unscripted actions in their native environments.
