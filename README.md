@@ -165,6 +165,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Miscellaneous
 
+- [Ego-Exo: Transferring Visual Representations From Third-Person to First-Person Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ego-Exo_Transferring_Visual_Representations_From_Third-Person_to_First-Person_Videos_CVPR_2021_paper.pdf) - Li, Yanghao and Nagarajan, Tushar and Xiong, Bo and Grauman, Kristen, CVPR 2021. [[code]](https://github.com/facebookresearch/Ego-Exo)
+
 - [Automatic Calibration of the Fisheye Camera for Egocentric 3D Human Pose Estimation From a Single Image](https://openaccess.thecvf.com/content/WACV2021/html/Zhang_Automatic_Calibration_of_the_Fisheye_Camera_for_Egocentric_3D_Human_WACV_2021_paper.html) - Yahui Zhang, Shaodi You, Theo Gevers, WACV 2021.
 
 - [Is Sharing of Egocentric Video Giving Away Your Biometric Signature?](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620392.pdf) - Daksh Thapar, Chetan Arora, Aditya Nigam. ECCV 2020. [[project page]](https://egocentricbiometric.github.io)
