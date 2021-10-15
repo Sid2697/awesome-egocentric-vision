@@ -165,6 +165,11 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf) - Miao Liu, Siyu Tang, Yin Li, James M. Rehg, ECCV 2020. [[project page]](https://aptx4869lm.github.io/ForecastingHOI/)
 
 
+### Multiple Egocentric Tasks
+
+- [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://arxiv.org/abs/2110.07058) - Kristen Grauman, Andrew Westbury, Eugene Byrne, Zachary Chavis, Antonino Furnari, Rohit Girdhar, Jackson Hamburger, Hao Jiang, Miao Liu, Xingyu Liu, Miguel Martin, Tushar Nagarajan, Ilija Radosavovic, Santhosh Kumar Ramakrishnan, Fiona Ryan, Jayant Sharma, Michael Wray, Mengmeng Xu, Eric Zhongcong Xu, Chen Zhao, Siddhant Bansal, Dhruv Batra, Vincent Cartillier, Sean Crane, Tien Do, Morrie Doulaty, Akshay Erapalli, Christoph Feichtenhofer, Adriano Fragomeni, Qichen Fu, Christian Fuegen, Abrham Gebreselasie, Cristina Gonzalez, James Hillis, Xuhua Huang, Yifei Huang, Wenqi Jia, Weslie Khoo, Jachym Kolar, Satwik Kottur, Anurag Kumar, Federico Landini, Chao Li, Yanghao Li, Zhenqiang Li, Karttikeya Mangalam, Raghava Modhugu, Jonathan Munro, Tullie Murrell, Takumi Nishiyasu, Will Price, Paola Ruiz Puentes, Merey Ramazanova, Leda Sari, Kiran Somasundaram, Audrey Southerland, Yusuke Sugano, Ruijie Tao, Minh Vo, Yuchen Wang, Xindi Wu, Takuma Yagi, Yunyi Zhu, Pablo Arbelaez, David Crandall, Dima Damen, Giovanni Maria Farinella, Bernard Ghanem, Vamsi Krishna Ithapu, C. V. Jawahar, Hanbyul Joo, Kris Kitani, Haizhou Li, Richard Newcombe, Aude Oliva, Hyun Soo Park, James M. Rehg, Yoichi Sato, Jianbo Shi, Mike Zheng Shou, Antonio Torralba, Lorenzo Torresani, Mingfei Yan, Jitendra Malik, arXiv. [[Github]](https://github.com/EGO4D) [[project page]](https://ego4d-data.org) [[video]](https://drive.google.com/file/d/1oknfQIH9w1rXy6I1j5eUE6Cqh96UwZ4L/view?usp=sharing)
+
+
 ### Miscellaneous
 
 - [Ego-Exo: Transferring Visual Representations From Third-Person to First-Person Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ego-Exo_Transferring_Visual_Representations_From_Third-Person_to_First-Person_Videos_CVPR_2021_paper.pdf) - Li, Yanghao and Nagarajan, Tushar and Xiong, Bo and Grauman, Kristen, CVPR 2021. [[code]](https://github.com/facebookresearch/Ego-Exo)
@@ -207,6 +212,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 
 ## Datasets
 
+- [Ego4D](https://ego4d-data.org) - 3,025 hours of daily-life activity video spanning hundreds of scenarios (household, outdoor, workplace, leisure, etc.) captured by 855 unique camera wearers from 74 worldwide locations and 9 different countries.
 - [EgoCom](https://github.com/facebookresearch/EgoCom-Dataset) - A natural conversations dataset containing multi-modal human communication data captured simultaneously from the participants' egocentric perspectives.
 - [TREK-100](https://machinelearning.uniud.it/datasets/trek100/) - Object tracking in first person vision.
 - [MECCANO](https://iplab.dmi.unict.it/MECCANO/) - 20 subject assembling a toy motorbike.
