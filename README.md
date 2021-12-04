@@ -11,6 +11,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 ## Papers
 
 ### Action/Activity Recognition
+- [Interactive Prototype Learning for Egocentric Action Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Interactive_Prototype_Learning_for_Egocentric_Action_Recognition_ICCV_2021_paper.html) - Xiaohan Wang, Linchao Zhu, Heng Wang, Yi Yang, ICCV 2021.
 
 - [Integrating Human Gaze Into Attention for Egocentric Activity Recognition](https://openaccess.thecvf.com/content/WACV2021/html/Min_Integrating_Human_Gaze_Into_Attention_for_Egocentric_Activity_Recognition_WACV_2021_paper.html) - Kyle Min, Jason J. Corso, WACV 2021.
 
@@ -212,6 +213,7 @@ of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You
 
 ## Datasets
 
+- [EGO-Deliver](https://egodeliver.github.io/EgoDeliver_Dataset/) - 425 hours’ videos with more than 139 thousand annotations, captured by chest-mounted cameras in real takeaway delivery scenarios.
 - [Ego4D](https://ego4d-data.org) - 3,025 hours of daily-life activity video spanning hundreds of scenarios (household, outdoor, workplace, leisure, etc.) captured by 855 unique camera wearers from 74 worldwide locations and 9 different countries.
 - [EgoCom](https://github.com/facebookresearch/EgoCom-Dataset) - A natural conversations dataset containing multi-modal human communication data captured simultaneously from the participants' egocentric perspectives.
 - [TREK-100](https://machinelearning.uniud.it/datasets/trek100/) - Object tracking in first person vision.
