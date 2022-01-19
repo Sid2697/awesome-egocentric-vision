@@ -12,7 +12,15 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Action/Activity Recognition
 
+- [Domain Generalization through Audio-Visual Relative Norm Alignment in First Person Action Recognition](https://openaccess.thecvf.com/content/WACV2022/papers/Planamente_Domain_Generalization_Through_Audio-Visual_Relative_Norm_Alignment_in_First_Person_WACV_2022_paper.pdf) - Planamente, Mirco and Plizzari, Chiara and Alberti, Emanuele and Caputo, Barbara, WACV 2021.
+
+- [With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition](https://www.bmvc2021-virtualconference.com/assets/papers/0610.pdf) - Kazakos, Evangelos and Huh, Jaesung and Nagrani, Arsha and Zisserman, Andrew and Damen, Dima, BMVC 2021. [[project page]](https://ekazakos.github.io/MTCN-project/) [[code]](https://github.com/ekazakos/MTCN)
+
+- [Stacked Temporal Attention: Improving First-person Action Recognition by Emphasizing Discriminative Clips](https://www.bmvc2021-virtualconference.com/assets/papers/0243.pdf) - Lijin Yang and Yifei Huang and Yusuke Sugano and Yoichi Sato [[project page]](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0243.html)
+
 - [Interactive Prototype Learning for Egocentric Action Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Interactive_Prototype_Learning_for_Egocentric_Action_Recognition_ICCV_2021_paper.html) - Xiaohan Wang, Linchao Zhu, Heng Wang, Yi Yang, ICCV 2021.
+
+- [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) - Munro, Jonathan and Damen, Dima, CVPR 2020. [[project page]](https://jonmun.github.io/mmsada/) [[code]](https://github.com/jonmun/MM-SADA-code)
 
 - [Integrating Human Gaze Into Attention for Egocentric Activity Recognition](https://openaccess.thecvf.com/content/WACV2021/html/Min_Integrating_Human_Gaze_Into_Attention_for_Egocentric_Activity_Recognition_WACV_2021_paper.html) - Kyle Min, Jason J. Corso, WACV 2021.
 
@@ -162,6 +170,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Human Object Interaction
 
+- [Hand-Object Contact Prediction via Motion-Based Pseudo-Labeling and Guided Progressive Label Correction](https://www.bmvc2021-virtualconference.com/assets/papers/0096.pdf) - Takuma Yagi, Md Tasnimul Hasan and Yoichi Sato, BMVC 2021. [[project page]](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0096.html) [[code]](https://github.com/takumayagi/hand_object_contact_prediction/)
+
 - [The MECCANO Dataset: Understanding Human-Object Interactions from Egocentric Videos in an Industrial-like Domain](https://arxiv.org/abs/2010.05654) - Francesco Ragusa and Antonino Furnari and Salvatore Livatino and Giovanni Maria Farinella, WACV 2021. [[project page]](https://iplab.dmi.unict.it/MECCANO/)
 
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf) - Miao Liu, Siyu Tang, Yin Li, James M. Rehg, ECCV 2020. [[project page]](https://aptx4869lm.github.io/ForecastingHOI/)
@@ -173,6 +183,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 
 ### Miscellaneous
+
+- [Slow-Fast Auditory Streams for Audio Recognition](https://arxiv.org/pdf/2103.03516.pdf) - Kazakos, Evangelos and Nagrani, Arsha and Zisserman, Andrew and Damen, Dima, ICASSP 2021. [[project page]](https://ekazakos.github.io/auditoryslowfast/) [[code]](https://github.com/ekazakos/auditory-slow-fast)
 
 - [Ego-Exo: Transferring Visual Representations From Third-Person to First-Person Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ego-Exo_Transferring_Visual_Representations_From_Third-Person_to_First-Person_Videos_CVPR_2021_paper.pdf) - Li, Yanghao and Nagarajan, Tushar and Xiong, Bo and Grauman, Kristen, CVPR 2021. [[code]](https://github.com/facebookresearch/Ego-Exo)
 
