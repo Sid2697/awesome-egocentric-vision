@@ -16,10 +16,11 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
     - [Social Interactions](#Social-Interactions)
     - [Pose Estimation](#Pose-Estimation)
     - [Human Object Interaction](#Human-Object-Interaction)
+    - [Temporal Boundary Detection](#Temporal-Boundary-Detection)
+    - [Privacy in Egocentric Videos](#Privacy-in-Egocentric-Videos)
     - [Multiple Egocentric Tasks](#Multiple-Egocentric-Tasks)
     - [Miscellaneous](#Miscellaneous)
-
-    <br>Clustered according to the conferences.
+    Clustered according to the conferences.
     - [CVPR](#CVPR)
     - [ECCV](#ECCV)
     - [ICCV](#ICCV)
@@ -58,8 +59,6 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [In the eye of beholder: Joint learning of gaze and actions in first person video](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf) - Yin Li, Miao Liu, and James M. Rehg. In ECCV 2018.
 
-- [Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation](http://users.ece.utexas.edu/~ethomaz/papers/j2.pdf) - Mariella Dimiccoli, Juan Marin, and Edison Thomaz. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2018.
-
 - [Privacy-Preserving Human Activity Recognition from Extreme Low Resolution](https://arxiv.org/pdf/1604.03196) - Michael S. Ryoo, Brandon Rothrock, Charles Fleming, and Hyun Jong Yang. In AAAI 2017.
 
 - [Jointly Recognizing Object Fluents and Tasks in Egocentric Videos](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Jointly_Recognizing_Object_ICCV_2017_paper.pdf) - Yang Liu, Ping Wei, and Song-Chun Zhu. In ICCV 2017.
@@ -84,7 +83,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Learning to recognize objects in egocentric activities](https://ai.stanford.edu/~alireza/publication/CVPR11.pdf) - Alireza Fathi, Xiaofeng Ren, and James M. Rehg. In CVPR 2011.
 
-- [Fast unsupervised ego-action learning for first-person sports videos](http://www.dgcv.nii.ac.jp/Publications/Papers/2011/CVPR2011a.pdf) - Kris M. Kitani, Takahiro Okabe, Yoichi Sato, and Akihiro Sugimoto. In CVPR 2011 [[project page]](https://www.ri.cmu.edu/publications/fast-unsupervised-ego-action-learning-for-first-person-sports-videos/)
+- [Fast unsupervised ego-action learning for first-person sports videos](http://www.dgcv.nii.ac.jp/Publications/Papers/2011/CVPR2011a.pdf) - Kris M. Kitani, Takahiro Okabe, Yoichi Sato, and Akihiro Sugimoto. In CVPR 2011. [[project page]](https://www.ri.cmu.edu/publications/fast-unsupervised-ego-action-learning-for-first-person-sports-videos/)
 
 - [Temporal segmentation and activity classification from first-person sensing](https://ieeexplore.ieee.org/document/5204354) - Ekaterina H. Spriggs, Fernando De La Torre, and Martial Hebert. In CVPR Workshops 2009.
 
@@ -165,6 +164,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Video Summarization
 
+- [Toward storytelling from visual lifelogging: An overview](https://arxiv.org/pdf/1507.06120.pdf) - Marc Bolanos, Mariella Dimiccoli, and Petia Radeva. In IEEE Transactions on Human-Machine Systems 2017.
+
 - [Story-Driven Summarization for Egocentric Video](https://www.cs.utexas.edu/~grauman/papers/lu-grauman-cvpr2013.pdf) - Zheng Lu and Kristen Grauman. In CVPR 2013 [[project page]](http://vision.cs.utexas.edu/projects/egocentric/storydriven.html)
 
 - [Discovering Important People and Objects for Egocentric Video Summarization](http://vision.cs.utexas.edu/projects/egocentric/egocentric_cvpr2012.pdf) - Yong Jae Lee, Joydeep Ghosh, and Kristen Grauman. In CVPR 2012. [[project page]](http://vision.cs.utexas.edu/projects/egocentric/index.html)
@@ -181,11 +182,15 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Pose Estimation
 
+- [Automatic Calibration of the Fisheye Camera for Egocentric 3D Human Pose Estimation From a Single Image](https://openaccess.thecvf.com/content/WACV2021/html/Zhang_Automatic_Calibration_of_the_Fisheye_Camera_for_Egocentric_3D_Human_WACV_2021_paper.html) - Yahui Zhang, Shaodi You, and Theo Gevers. In WACV 2021.
+
 - [You2Me: Inferring Body Pose in Egocentric Video via First and Second Person Interactions](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ng_You2Me_Inferring_Body_Pose_in_Egocentric_Video_via_First_and_CVPR_2020_paper.pdf) - Evonne Ng, Donglai Xiang, Hanbyul Joo, and Kristen Grauman. In CVPR 2020. [[demo]](http://vision.cs.utexas.edu/projects/you2me/demo.mp4) [[project page]](http://vision.cs.utexas.edu/projects/you2me/) [[dataset]](https://github.com/facebookresearch/you2me/tree/master/data#) [[code]](https://github.com/facebookresearch/you2me#)
 
 - [Ego-Pose Estimation and Forecasting as Real-Time PD Control](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf) - Ye Yuan and Kris Kitani. In ICCV 2019. [[code]](https://github.com/Khrylx/EgoPose) [[project page]](https://www.ye-yuan.com/ego-pose) [[demo]](https://youtu.be/968IIDZeWE0)
 
 - [xR-EgoPose: Egocentric 3D Human Pose From an HMD Camera](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tome_xR-EgoPose_Egocentric_3D_Human_Pose_From_an_HMD_Camera_ICCV_2019_paper.pdf) - Denis Tome, Patrick Peluse, Lourdes Agapito, and Hernan Badino. In ICCV 2019. [[demo]](https://youtu.be/zem03fZWLrQ) [[dataset]](https://github.com/facebookresearch/xR-EgoPose)
+
+- [Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Seeing_Invisible_Poses_CVPR_2017_paper.pdf) - Hao Jiang and Kristen Grauman. In CVPR 2017.
 
 
 ### Human Object Interaction
@@ -195,6 +200,28 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 - [The MECCANO Dataset: Understanding Human-Object Interactions from Egocentric Videos in an Industrial-like Domain](https://arxiv.org/abs/2010.05654) - Francesco Ragusa, Antonino Furnari, Salvatore Livatino, and Giovanni Maria Farinella. In WACV 2021. [[project page]](https://iplab.dmi.unict.it/MECCANO/)
 
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf) - Miao Liu, Siyu Tang, Yin Li, and James M. Rehg. In ECCV 2020. [[project page]](https://aptx4869lm.github.io/ForecastingHOI/)
+
+- [You-Do, I-Learn: Discovering Task Relevant Objects and their Modes of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You-Do-I-Learn/Damen_BMVC2014.pdf) - Dima Damen, Tessid Leelasawassuk, Osian Haines, Andrew Calway,and Walterio Mayol-Cuevas. In BMVC 2014 [[project page]](http://www.bmva.org/bmvc/2014/papers/paper059/index.html)
+
+- [Automated capture and delivery of assistive task guidance with an eyewear computer: the GlaciAR system](https://arxiv.org/pdf/1701.02586) -  Teesid Leelasawassuk, Dima Damen, and Walterio Mayol-Cuevas. In Augmented Human International Conference, ACM 2017.
+
+
+### Temporal Boundary Detection
+
+- [Trespassing the Boundaries: Labeling Temporal Bounds for Object Interactions in Egocentric Video](https://openaccess.thecvf.com/content_ICCV_2017/papers/Moltisanti_Trespassing_the_Boundaries_ICCV_2017_paper.pdf) - Davide Moltisanti, Michael Wray, Walterio Mayol-Cuevas, and Dima Damen. In ICCV 2017.
+
+- [Temporal segmentation of egocentric videos](https://www.cse.iitd.ac.in/~chetan/papers/egocentric-cvpr14.pdf) -Yair Poleg, Chetan Arora, and Shmuel Peleg. In CVPR 2014.
+
+
+### Privacy in Egocentric Videos
+
+- [Is Sharing of Egocentric Video Giving Away Your Biometric Signature?](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620392.pdf) - Daksh Thapar, Chetan Arora, and Aditya Nigam. In ECCV 2020. [[project page]](https://egocentricbiometric.github.io)
+
+- [Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation](http://users.ece.utexas.edu/~ethomaz/papers/j2.pdf) - Mariella Dimiccoli, Juan Marin, and Edison Thomaz. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2018.
+
+- [Privacy-Preserving Human Activity Recognition from Extreme Low Resolution](https://arxiv.org/pdf/1604.03196) - Michael S. Ryoo, Brandon Rothrock, Charles Fleming, and Hyun Jong Yang. In AAAI 2017.
+
+- [Ego-Surfing First Person Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Yonetani_Ego-Surfing_First-Person_Videos_2015_CVPR_paper.pdf) - Ryo Yonetani, Kris M. Kitani, and Yoichi Sato. In CVPR 2015.
 
 
 ### Multiple Egocentric Tasks
@@ -208,39 +235,19 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Ego-Exo: Transferring Visual Representations From Third-Person to First-Person Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ego-Exo_Transferring_Visual_Representations_From_Third-Person_to_First-Person_Videos_CVPR_2021_paper.pdf) - Yanghao Li, Tushar Nagarajan, Bo Xiong, Kristen Grauman. In CVPR 2021. [[code]](https://github.com/facebookresearch/Ego-Exo)
 
-- [Automatic Calibration of the Fisheye Camera for Egocentric 3D Human Pose Estimation From a Single Image](https://openaccess.thecvf.com/content/WACV2021/html/Zhang_Automatic_Calibration_of_the_Fisheye_Camera_for_Egocentric_3D_Human_WACV_2021_paper.html) - Yahui Zhang, Shaodi You, and Theo Gevers. In WACV 2021.
-
-- [Is Sharing of Egocentric Video Giving Away Your Biometric Signature?](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620392.pdf) - Daksh Thapar, Chetan Arora, and Aditya Nigam. In ECCV 2020. [[project page]](https://egocentricbiometric.github.io)
-
 - [EGO-SLAM: A Robust Monocular SLAM for Egocentric Videos](https://www.cse.iitd.ac.in/~chetan/papers/wacv19-egoslam.pdf) - Suvam Patra, Kartikeya Gupta, Faran Ahmad, Chetan Arora, and Subhashis Banerjee. In WACV 2019. [[code]](https://github.com/IITD-COMPUTER-VISION-GROUP/ego-slam)
 
 - [Egocentric Basketball Motion Planning from a Single First-Person Image](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bertasius_Egocentric_Basketball_Motion_CVPR_2018_paper.pdf) - Gedas Bertasius, Aaron Chan, and Jianbo Shi. In CVPR 2018. [[demo]](https://youtu.be/wRRRl4QsUQg)
 
-- [Trespassing the Boundaries: Labeling Temporal Bounds for Object Interactions in Egocentric Video](https://openaccess.thecvf.com/content_ICCV_2017/papers/Moltisanti_Trespassing_the_Boundaries_ICCV_2017_paper.pdf) - Davide Moltisanti, Michael Wray, Walterio Mayol-Cuevas, and Dima Damen. In ICCV 2017.
-
 - [Jointly Learning Energy Expenditures and Activities using Egocentric Multimodal Signals](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nakamura_Jointly_Learning_Energy_CVPR_2017_paper.pdf) - Katsuyuki Nakamura, Serena Yeung, Alexandre Alahi, and Li Fei-Fei. In CVPR 2017.
-
-- [Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Seeing_Invisible_Poses_CVPR_2017_paper.pdf) - Hao Jiang and Kristen Grauman. In CVPR 2017.
-
-- [Toward storytelling from visual lifelogging: An overview](https://arxiv.org/pdf/1507.06120.pdf) - Marc Bolanos, Mariella Dimiccoli, and Petia Radeva. In IEEE Transactions on Human-Machine Systems 2017.
-
-- [Automated capture and delivery of assistive task guidance with an eyewear computer: the GlaciAR system](https://arxiv.org/pdf/1701.02586) -  Teesid Leelasawassuk, Dima Damen, and Walterio Mayol-Cuevas. In Augmented Human International Conference, ACM 2017.
 
 - [Walk and Learn: Facial Attribute Representation Learning from Egocentric Video and Contextual Data](https://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_Walk_and_Learn_CVPR_2016_paper.pdf) - Jing Wang, Yu Cheng, and Rogerio Schmidt Feris. In CVPR 2016. [[demo]](https://youtu.be/AQKS20Eo7uQ)
 
 - [Compact CNN for Indexing Egocentric Videos](https://www.cs.huji.ac.il/~peleg/papers/wacv16-cnn-indexing.pdf) - Yair Poleg, Ariel Ephrat, Shmuel Peleg, and Chetan Arora. In WACV 2016.
 
-- [Multi-face tracking by extended bag-of-tracklets in egocentric photo-streams](https://www.sciencedirect.com/science/article/abs/pii/S1077314216000679) - Maedeh Aghaei, Mariella Dimiccoli, and Petia Radeva. In Computer Vision and Image Understanding 2016.
-
 - [Detecting engagement in egocentric video](http://www.cs.utexas.edu/~grauman/papers/su-eccv2016-ego.pdf) - Yu-Chuan Su and Kristen Grauman. In ECCV 2016.
 
 - [EgoSampling: Fast-Forward and Stereo for Egocentric Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Poleg_EgoSampling_Fast-Forward_and_2015_CVPR_paper.pdf) - Yair Poleg, Tavi Halperin, Chetan Arora, and Shmuel Peleg. In CVPR 2015.
-
-- [Ego-Surfing First Person Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Yonetani_Ego-Surfing_First-Person_Videos_2015_CVPR_paper.pdf) - Ryo Yonetani, Kris M. Kitani, and Yoichi Sato. In CVPR 2015.
-
-- [You-Do, I-Learn: Discovering Task Relevant Objects and their Modes of Interaction from Multi-User Egocentric Video](https://dimadamen.github.io/You-Do-I-Learn/Damen_BMVC2014.pdf) - Dima Damen, Tessid Leelasawassuk, Osian Haines, Andrew Calway,and Walterio Mayol-Cuevas. In BMVC 2014 [[project page]](http://www.bmva.org/bmvc/2014/papers/paper059/index.html)
-
-- [Temporal segmentation of egocentric videos](https://www.cse.iitd.ac.in/~chetan/papers/egocentric-cvpr14.pdf) -Yair Poleg, Chetan Arora, and Shmuel Peleg. In CVPR 2014.
 
 
 > Clustered according to the conferences.
@@ -315,7 +322,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Learning to recognize objects in egocentric activities](https://ai.stanford.edu/~alireza/publication/CVPR11.pdf) - Alireza Fathi, Xiaofeng Ren, and James M. Rehg. In CVPR 2011.
 
-- [Fast unsupervised ego-action learning for first-person sports videos](http://www.dgcv.nii.ac.jp/Publications/Papers/2011/CVPR2011a.pdf) - Kris M. Kitani, Takahiro Okabe, Yoichi Sato, and Akihiro Sugimoto. In CVPR 2011 [[project page]](https://www.ri.cmu.edu/publications/fast-unsupervised-ego-action-learning-for-first-person-sports-videos/)
+- [Fast unsupervised ego-action learning for first-person sports videos](http://www.dgcv.nii.ac.jp/Publications/Papers/2011/CVPR2011a.pdf) - Kris M. Kitani, Takahiro Okabe, Yoichi Sato, and Akihiro Sugimoto. In CVPR 2011. [[project page]](https://www.ri.cmu.edu/publications/fast-unsupervised-ego-action-learning-for-first-person-sports-videos/)
 
 ### ECCV 
 
