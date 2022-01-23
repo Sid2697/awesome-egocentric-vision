@@ -6,7 +6,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ## Contents
 - [Papers](#papers)
-    <br>Clustered in various problem statements.
+
+    > Clustered into various problem statements.
     - [Action/Activity Recognition](#ActionActivity-Recognition)
     - [Object/Hand Recognition](#ObjectHand-Recognition)
     - [Action/Gaze Anticipation](#ActionGaze-Anticipation)
@@ -20,7 +21,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
     - [Privacy in Egocentric Videos](#Privacy-in-Egocentric-Videos)
     - [Multiple Egocentric Tasks](#Multiple-Egocentric-Tasks)
     - [Miscellaneous](#Miscellaneous)
-    Clustered according to the conferences.
+
+    > Clustered according to the conferences.
     - [CVPR](#CVPR)
     - [ECCV](#ECCV)
     - [ICCV](#ICCV)
