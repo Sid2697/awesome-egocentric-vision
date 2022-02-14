@@ -194,6 +194,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Seeing Invisible Poses: Estimating 3D Body Pose from Egocentric Video](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Seeing_Invisible_Poses_CVPR_2017_paper.pdf) - Hao Jiang and Kristen Grauman. In CVPR 2017.
 
+- [First-Person Pose Recognition using Egocentric Workspaces](https://openaccess.thecvf.com/content_cvpr_2015/papers/Rogez_First-Person_Pose_Recognition_2015_CVPR_paper.pdf) - Gregory Rogez, James S. Supancic, and Deva Ramanan. In CVPR 2015.
 
 ### Human Object Interaction
 
