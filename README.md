@@ -311,6 +311,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Ego-Surfing First Person Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Yonetani_Ego-Surfing_First-Person_Videos_2015_CVPR_paper.pdf) - Ryo Yonetani, Kris M. Kitani, and Yoichi Sato. In CVPR 2015.
 
+- [First-Person Pose Recognition using Egocentric Workspaces](https://openaccess.thecvf.com/content_cvpr_2015/papers/Rogez_First-Person_Pose_Recognition_2015_CVPR_paper.pdf) - Gregory Rogez, James S. Supancic, and Deva Ramanan. In CVPR 2015.
+
 - [Temporal segmentation of egocentric videos](https://www.cse.iitd.ac.in/~chetan/papers/egocentric-cvpr14.pdf) -Yair Poleg, Chetan Arora, and Shmuel Peleg. In CVPR 2014.
 
 - [First-Person Activity Recognition: What Are They Doing to Me?](http://cvrc.ece.utexas.edu/mryoo/papers/cvpr2013_ryoo.pdf) - M. S. Ryoo and Larry Matthies. In CVPR 2013.
