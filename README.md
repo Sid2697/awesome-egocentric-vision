@@ -166,6 +166,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Video Summarization
 
+- [Query-focused video summarization: Dataset, evaluation, and a memory network based approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Sharghi_Query-Focused_Video_Summarization_CVPR_2017_paper.pdf) - Aidean Sharghi, Jacob S. Laurel and Boqing Gong. In CVPR 2017. [[project page]](https://www.aidean-sharghi.com/cvpr2017)
+
 - [Toward storytelling from visual lifelogging: An overview](https://arxiv.org/pdf/1507.06120.pdf) - Marc Bolanos, Mariella Dimiccoli, and Petia Radeva. In IEEE Transactions on Human-Machine Systems 2017.
 
 - [Story-Driven Summarization for Egocentric Video](https://www.cs.utexas.edu/~grauman/papers/lu-grauman-cvpr2013.pdf) - Zheng Lu and Kristen Grauman. In CVPR 2013 [[project page]](http://vision.cs.utexas.edu/projects/egocentric/storydriven.html)
