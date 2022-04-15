@@ -289,6 +289,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Egocentric Basketball Motion Planning from a Single First-Person Image](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bertasius_Egocentric_Basketball_Motion_CVPR_2018_paper.pdf) - Gedas Bertasius, Aaron Chan, and Jianbo Shi. In CVPR 2018. [[demo]](https://youtu.be/wRRRl4QsUQg)
 
+- [Query-focused video summarization: Dataset, evaluation, and a memory network based approach](https://openaccess.thecvf.com/content_cvpr_2017/papers/Sharghi_Query-Focused_Video_Summarization_CVPR_2017_paper.pdf) - Aidean Sharghi, Jacob S. Laurel and Boqing Gong. In CVPR 2017. [[project page]](https://www.aidean-sharghi.com/cvpr2017)
+
 - [Deep future gaze: Gaze anticipation on egocentric videos using adversarial networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf) - Mengmi Zhang, Keng Teck Ma, Joo Hwee Lim, Qi Zhao, and Jiashi Feng. In CVPR 2017. [[code]](https://github.com/Mengmi/deepfuturegaze_gan)
 
 - [Jointly Learning Energy Expenditures and Activities using Egocentric Multimodal Signals](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nakamura_Jointly_Learning_Energy_CVPR_2017_paper.pdf) - Katsuyuki Nakamura, Serena Yeung, Alexandre Alahi, and Li Fei-Fei. In CVPR 2017.
