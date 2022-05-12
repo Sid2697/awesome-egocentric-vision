@@ -117,6 +117,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Action/Gaze Anticipation
 
+- [Predicting Gaze from Egocentric Social Interaction Videos and IMU Data](https://dl.acm.org/doi/abs/10.1145/3462244.3479954) - Sanket Kumar Thakur, CIGDEM BEYAN, Pietro Morerio, Alessio Del Bue. In ACM ICMI 2021.
+
 - [Learning to Anticipate Egocentric Actions by Imagination](https://arxiv.org/pdf/2101.04924.pdf) - Yu Wu, Linchao Zhu, Xiaohan Wang, Yi Yang, and Fei Wu. In TIP 2021.
 
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf) - Miao Liu, Siyu Tang, Yin Li, and James M. Rehg. In ECCV 2020. [[project page]](https://aptx4869lm.github.io/ForecastingHOI/)
