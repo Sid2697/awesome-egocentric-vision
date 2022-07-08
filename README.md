@@ -20,7 +20,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
     - [Temporal Boundary Detection](#Temporal-Boundary-Detection)
     - [Privacy in Egocentric Videos](#Privacy-in-Egocentric-Videos)
     - [Multiple Egocentric Tasks](#Multiple-Egocentric-Tasks)
-    - [Miscellaneous](#Miscellaneous-(New-Tasks))
+    - [Miscellaneous (New Tasks)](#Miscellaneous-New-Tasks)
 
     > Clustered according to the conferences.
     - [CVPR](#CVPR)
