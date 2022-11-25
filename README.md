@@ -304,7 +304,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [E2(GO)MOTION: Motion Augmented Event Stream for Egocentric Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Plizzari_E2GOMOTION_Motion_Augmented_Event_Stream_for_Egocentric_Action_Recognition_CVPR_2022_paper.pdf) - Chiara Plizzari, Mirco Planamente, Gabriele Goletto, Marco Cannici, Emanuele Gusso, Matteo Matteucci, Barbara Caputo. In CVPR 2022.
 
-- [Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Estimating_Egocentric_3D_Human_Pose_in_the_Wild_With_External_CVPR_2022_paper.pdf) - Jian Wang, Lingjie Liu, Weipeng Xu, Kripasindhu Sarkar, Diogo Luvizon, Christian Theobalt. In CVPR 2022.
+- [Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Estimating_Egocentric_3D_Human_Pose_in_the_Wild_With_External_CVPR_2022_paper.pdf) - Jian Wang, Lingjie Liu, Weipeng Xu, Kripasindhu Sarkar, Diogo Luvizon, Christian Theobalt. In CVPR 2022. [[project page]](https://people.mpi-inf.mpg.de/~jianwang/projects/egopw/) [[dataset]](https://people.mpi-inf.mpg.de/~jianwang/projects/egopw/) [[demo]](https://people.mpi-inf.mpg.de/~jianwang/projects/egopw/data/camera_ready.mp4)
 
 - [Robust Egocentric Photo-realistic Facial Expression Transfer for Virtual Reality](https://openaccess.thecvf.com/content/CVPR2022/papers/Jourabloo_Robust_Egocentric_Photo-Realistic_Facial_Expression_Transfer_for_Virtual_Reality_CVPR_2022_paper.pdf) - Amin Jourabloo, Fernando De la Torre, Jason Saragih, Shih-En Wei, Stephen Lombardi, Te-Li Wang, Danielle Belko, Autumn Trimble, Hernan Badino. In CVPR 2022.
 
