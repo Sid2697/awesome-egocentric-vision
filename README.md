@@ -38,6 +38,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Action/Activity Recognition
 
+- [Learning State-Aware Visual Representations from Audible Interactions](https://arxiv.org/pdf/2209.13583.pdf) - Himangi Mittal, Pedro Morgado, Unnat Jain, Abhinav Gupta. In NeurIPS 2022. [[Code]](https://github.com/HimangiM/RepLAI) [[Video]](https://www.youtube.com/watch?v=hn5P8BPrPZ4)
+
 - [Egocentric Activity Recognition and Localization on a 3D Map](https://arxiv.org/pdf/2105.09544.pdf) - Miao Liu, Lingni Ma, Kiran Somasundaram, Yin Li, Kristen Grauman, James M. Rehg, Chao Li. In ECCV 2022.
 
 - [SOS! Self-supervised Learning Over Sets Of Handled Objects In Egocentric Action Recognition](https://arxiv.org/abs/2204.04796) - Victor Escorcia, Ricardo Guerrero, Xiatian Zhu, Brais Martinez. In ECCV 2022.
