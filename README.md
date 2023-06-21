@@ -38,7 +38,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Action/Activity Recognition
 
-- [MMG-Ego4D: Multimodal Generalization in Egocentric Action Recognition] - Xinyu Gong, Sreyas Mohan, Naina Dhingra, Jean-Charles Bazin, YILEI LI, Zhangyang Wang, Rakesh Ranjan. In CVPR 2023.
+- [MMG-Ego4D: Multimodal Generalization in Egocentric Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Gong_MMG-Ego4D_Multimodal_Generalization_in_Egocentric_Action_Recognition_CVPR_2023_paper.pdf) - Xinyu Gong, Sreyas Mohan, Naina Dhingra, Jean-Charles Bazin, YILEI LI, Zhangyang Wang, Rakesh Ranjan. In CVPR 2023.
 
 - [Therbligs In Action: Video Understanding through Motion Primitives](https://arxiv.org/pdf/2304.03631.pdf) - Eadom Dessalene, Michael Maynord, Cornelia Fermu ̈ller, Yiannis Aloimonos. In CVPR 2023. [[project page]](https://prg.cs.umd.edu/Therbligs)
 
@@ -343,7 +343,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 - [Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos](https://arxiv.org/pdf/2209.09484.pdf) - Yilin Wen, Hao Pan, Lei Yang, Jia Pan, Taku Komura, Wenping Wang. In CVPR 2023. [[Code]](https://github.com/fylwen/HTT) [[Video]](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/ylwen_connect_hku_hk/EqSS-_AKROVDsKSzb6FMuZYBrsrmAZ7yuwvVXX4pT6c3ug?e=yE8gFK)
 
-- [MMG-Ego4D: Multimodal Generalization in Egocentric Action Recognition] - Xinyu Gong, Sreyas Mohan, Naina Dhingra, Jean-Charles Bazin, YILEI LI, Zhangyang Wang, Rakesh Ranjan. In CVPR 2023.
+- [MMG-Ego4D: Multimodal Generalization in Egocentric Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Gong_MMG-Ego4D_Multimodal_Generalization_in_Egocentric_Action_Recognition_CVPR_2023_paper.pdf) - Xinyu Gong, Sreyas Mohan, Naina Dhingra, Jean-Charles Bazin, YILEI LI, Zhangyang Wang, Rakesh Ranjan. In CVPR 2023.
 
 - [AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation](https://assemblyhands.github.io) - Takehiko Ohkawa, Kun He, Fadime Sener, Tomas Hodan, LUAN TRAN, Cem Keskin. In CVPR 2023.
 
