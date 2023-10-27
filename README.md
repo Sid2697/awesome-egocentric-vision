@@ -499,6 +499,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### ICCV
 
+- [EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone](https://arxiv.org/pdf/2307.05463.pdf) - Shraman Pramanick, Yale Song, Sayan Nag, Kevin Qinghong Lin, Hardik Shah, Mike Zheng Shou, Rama Chellappa, and Pengchuan Zhang. In ICCV 2023. [[project page]](https://shramanpramanick.github.io/EgoVLPv2/) [[code]](https://github.com/facebookresearch/EgoVLPv2/)
+
 - [Estimating Egocentric 3D Human Pose in Global Space](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Estimating_Egocentric_3D_Human_Pose_in_Global_Space_ICCV_2021_paper.pdf) - Jian Wang, Lingjie Liu, Weipeng Xu, Kripasindhu Sarkar, Christian Theobalt. In ICCV 2021. [[project page]](https://people.mpi-inf.mpg.de/~jianwang/projects/globalegomocap/) [[dataset]](https://people.mpi-inf.mpg.de/~jianwang/projects/globalegomocap/) [[demo]](https://people.mpi-inf.mpg.de/~jianwang/projects/globalegomocap/data/global_egomocap.mp4)
 
 - [Interactive Prototype Learning for Egocentric Action Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Interactive_Prototype_Learning_for_Egocentric_Action_Recognition_ICCV_2021_paper.html) - Xiaohan Wang, Linchao Zhu, Heng Wang, and Yi Yang. In ICCV 2021.
