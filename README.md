@@ -316,6 +316,7 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 
 ### Miscellaneous (New Tasks)
+- [EgoGen: An Egocentric Synthetic Data Generator](https://arxiv.org/pdf/2401.08739) -  Gen Li, Kaifeng Zhao, Siwei Zhang, Xiaozhong Lyu, Mihai Dusmanu, Yan Zhang, Marc Pollefeys, and Siyu Tang. In CVPR 2024. [[project page]](https://ego-gen.github.io/)
 
 - [PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933) - Alessandro Flaborea, Guido Maria D'Amely di Melendugno, Leonardo Plini, Luca Scofano, Edoardo De Matteis, Antonino Furnari, Giovanni Maria Farinella, and Fabio Galasso. In CVPR 2024.
 
@@ -382,6 +383,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 > Clustered according to the conferences.
 
 ### CVPR
+
+- [EgoGen: An Egocentric Synthetic Data Generator](https://arxiv.org/pdf/2401.08739) -  Gen Li, Kaifeng Zhao, Siwei Zhang, Xiaozhong Lyu, Mihai Dusmanu, Yan Zhang, Marc Pollefeys, and Siyu Tang. In CVPR 2024. [[project page]](https://ego-gen.github.io/)
 
 - [A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives](https://arxiv.org/pdf/2403.03037) - Simone Alberto Peirone, Francesca Pistilli, Antonio Alliegro, and Giuseppe Averta. In CVPR 2024.
 
