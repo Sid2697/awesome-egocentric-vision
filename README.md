@@ -652,6 +652,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ## Datasets
 
+- [HOT3D](https://facebookresearch.github.io/hot3d/) - HOT3D is a dataset for benchmarking egocentric tracking of hands and objects in 3D. The dataset includes 833 minutes of multi-view image streams, which show 19 subjects interacting with 33 diverse rigid objects and are annotated with accurate 3D poses and shapes of hands and objects.
+- [Nymeria](https://www.projectaria.com/datasets/nymeria/) - Dataset of human motion in the wild, capturing diverse people engaging in diverse activities across diverse locations. Record body motion using multiple egocentric multimodal devices, all accurately synchronized and localized in one single metric 3D world. 300 hours of daily activity, 3600 hours of video data, 1200 sequences, 264 participants, 50 indoor and outdoor locations.
 - [Ego-Exo4D](https://ego-exo4d-data.org) - 1,286 hours of multi-modal multiview videos recorded by 740 participants from 13 cities worldwide performing different skilled human activities (e.g., sports, music, dance, bike repair).
 - [Aria Digital Twin](https://www.projectaria.com/datasets/adt/) - A comprehensive egocentric dataset containing 200 sequences of real-world activities conducted by Aria wearers in two real indoor scenes with 398 object instances (324 stationary and 74 dynamic).
 - [HoloAssist](https://holoassist.github.io) - A large-scale egocentric human interaction dataset, where two people collaboratively complete physical manipulation tasks.
