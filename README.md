@@ -316,6 +316,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 
 ### Miscellaneous (New Tasks)
+- [Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures](https://arxiv.org/abs/2602.09600) - Yuxi Wang, Wenqi Ouyang, Tianyi Wei, Yi Dong, Zhiqi Shen, Xingang Pan. In arXiv 2026. [[project page]](https://hand2world.github.io/)
+
 - [EgoGen: An Egocentric Synthetic Data Generator](https://arxiv.org/pdf/2401.08739) -  Gen Li, Kaifeng Zhao, Siwei Zhang, Xiaozhong Lyu, Mihai Dusmanu, Yan Zhang, Marc Pollefeys, and Siyu Tang. In CVPR 2024. [[project page]](https://ego-gen.github.io/)
 
 - [PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933) - Alessandro Flaborea, Guido Maria D'Amely di Melendugno, Leonardo Plini, Luca Scofano, Edoardo De Matteis, Antonino Furnari, Giovanni Maria Farinella, and Fabio Galasso. In CVPR 2024.
