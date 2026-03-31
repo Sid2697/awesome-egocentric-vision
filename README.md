@@ -22,6 +22,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
     - [Multiple Egocentric Tasks](#Multiple-Egocentric-Tasks)
     - [Task Understanding](#Task-Understanding)
     - [Miscellaneous (New Tasks)](#Miscellaneous-New-Tasks)
+- [Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures](https://arxiv.org/abs/2602.09600) - Yuxi Wang, Wenqi Ouyang, Tianyi Wei, Yi Dong, Zhiqi Shen, Xingang Pan. In arXiv 2026. [[project page]](https://hand2world.github.io/)
+
 
     > Clustered according to the conferences.
     - [CVPR](#CVPR)
