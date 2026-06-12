@@ -308,6 +308,8 @@ Egocentric (first-person) vision is a sub-field of computer vision that analyses
 
 ### Task Understanding
 
+- [GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://arxiv.org/pdf/2603.24329) - Yunzhe Wang, et al. In ACL 2026. A decision-dense, POV-synced multi-video question answering benchmark from the first-person viewpoints of 3D virtual agents (note: synthetic/virtual egocentric gameplay, not real-world wearable capture). [[project page]](https://hats-ict.github.io/gameplayqa/) [[code]](https://github.com/HATS-ICT/GameplayQA) [[dataset]](https://huggingface.co/datasets/wangyz1999/GameplayQA)
+
 - [EgoTV: Egocentric Task Verification from Natural Language Task Descriptions](https://openaccess.thecvf.com/content/ICCV2023/papers/Hazra_EgoTV_Egocentric_Task_Verification_from_Natural_Language_Task_Descriptions_ICCV_2023_paper.pdf) - Rishi Hazra, Brian Chen, Akshara Rai, Nitin Kamra, and Ruta Desai. In ICCV 2023. [[project page]](https://ai.meta.com/datasets/egotv-egocentric-task-verification-dataset/) [[code]](https://github.com/facebookresearch/EgoTV)
 
 - [My View is the Best View: Procedure Learning from Egocentric Videos](https://arxiv.org/pdf/2207.10883) - Siddhant Bansal, Chetan Arora, C.V. Jawahar. In ECCV 2022. [[project page]](https://sid2697.github.io/egoprocel/) [[dataset]](https://sid2697.github.io/egoprocel/#download) [[code]](https://github.com/Sid2697/EgoProceL-egocentric-procedure-learning)
