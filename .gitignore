@@ -2,3 +2,7 @@
 .gitattributes
 .yo-rc.json
 .vscode/
+
+# Claude Code
+CLAUDE.md
+.claude/
