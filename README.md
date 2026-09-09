@@ -1581,6 +1581,7 @@ A quick-reference table of some of the most prominent egocentric datasets/benchm
 
 ### All Datasets
 
+- [ego-stereo-cn-v1](https://huggingface.co/datasets/tatezhou/ego-stereo-cn-v1) - Public sample (2 episodes, 4,914 frames, 163.47 s) of hardware-synced egocentric stereo RGB + IMU human demonstrations in LeRobot v3 format (CC BY-NC 4.0); real job-site capture; loading and timing verify tools available. [[site]](https://10khoursdata.com) [[code]](https://github.com/TateZhouSiu/ego-stereo-cn-v1-tools)
 - [EgoHumans](https://github.com/rawalkhirodkar/egohumans) - 125K+ egocentric images from an in-the-wild multi-view multi-human capture setup (tennis, fencing, volleyball), with 3D pose, mesh, and tracking ground truth. [[paper]](https://arxiv.org/abs/2305.16487)
 - [EgoPet](https://www.amirbar.net/egopet/) - About 84 hours of animal (dogs, cats, and others) egocentric video with interaction annotations, supporting benchmarks for visual interaction prediction, locomotion prediction, and vision-to-proprioception. [[paper]](https://arxiv.org/abs/2404.09991)
 - [Assembly101](https://assembly-101.github.io/) - 4,321 videos of assembling/disassembling 101 take-apart toy vehicles, with 8 static and 4 egocentric views, 100K+ coarse and 1M fine-grained action segments, and 18M 3D hand poses, for procedural activity recognition, anticipation, segmentation, and mistake detection. [[paper]](https://arxiv.org/abs/2203.14712)
