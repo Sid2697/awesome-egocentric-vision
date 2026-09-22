@@ -48,6 +48,8 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 - [Datasets](#datasets)
 - [Workshops/Tutorials](#workshopstutorials)
 
+- [Tools](#tools)
+
 ## Papers
 
 > Clustered in various problem statements.
@@ -1861,6 +1863,10 @@ Recurring workshops focused specifically on egocentric vision, useful for tracki
 - [International Workshop on Egocentric Perception, Interaction and Computing (EPIC)](https://epic-workshop.org/) - Long-running forum on egocentric perception across computer vision, machine learning, multimedia, AR/VR, and HCI, with editions at ECCV 2016, ICCV 2017, CVPR 2019, ICCV 2019, CVPR 2020, ECCV 2020, CVPR 2021, ICCV 2021, CVPR 2022, and CVPR 2023 (its final editions were joint with the Ego4D workshop; the series is now folded into EgoVis).
 - [International Ego4D Workshop](https://ego4d-data.org/workshops/cvpr23/) - Challenge-centered workshop around the Ego4D benchmark suite, held at CVPR 2022 (joint with the 10th EPIC workshop), ECCV 2022, and CVPR 2023 (joint with the 11th EPIC workshop); now merged into EgoVis.
 - [EgoMotion: Egocentric Body Motion Tracking, Synthesis and Action Recognition](https://egomotion-workshop.github.io/) - Workshop on human motion tracking, synthesis, and activity understanding from egocentric multimodal wearable-sensor data, held at CVPR 2024 and ICCV 2025.
+
+## Tools
+
+- [Egohub](https://github.com/IstariRobotics/egohub) - An end-to-end pipeline for ingesting, normalizing, and serving egocentric datasets in a unified state and action format.
 
 ## Contribute
 
