@@ -681,7 +681,7 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 ### Egocentric Video-Language Models & Question Answering
 
 <details>
-<summary>Show papers (45)</summary>
+<summary>Show papers (46)</summary>
 
 - [EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning](https://arxiv.org/abs/2603.09731) - Chengjun Yu, Xuhan Zhu, Chaoqun Du, Pengfei Yu, Wei Zhai, Yang Cao, and Zheng-Jun Zha. In ECCV 2026. [[project page]](https://jackyu6.github.io/EXPLORE-Page/)
 
@@ -772,6 +772,8 @@ Papers below are grouped by task first (see [Papers](#papers)), then cross-liste
 - [EgoVideo: Exploring Egocentric Foundation Model and Downstream Adaptation](https://arxiv.org/abs/2406.18070) - Baoqi Pei, Guo Chen, Jilan Xu, Yuping He, Yicheng Liu, Kanghua Pan, et al. arXiv 2024. [[code]](https://github.com/OpenGVLab/EgoVideo)
 
 - [EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://arxiv.org/abs/2308.09126) - Karttikeya Mangalam, Raiymbek Akshulakov, and Jitendra Malik. In NeurIPS 2023. [[project page]](https://egoschema.github.io/) [[code]](https://github.com/egoschema/EgoSchema)
+
+- [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423) - Yuhan Zhu, Changlian Ma, Xiangyu Zeng, Xinhao Li, Zhiqiu Zhang, Songze Li, Jun Zhang, Tianxiang Jiang, Yuandong Yang, Ziang Yan, Zikang Wang, Xinyu Chen, Haoran Chen, Shaowei Zhang, Limin Wang. arXiv 2026. [[code]](https://github.com/MCG-NJU/TimeLens2)
 
 </details>
 
